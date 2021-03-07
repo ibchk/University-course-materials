@@ -1,0 +1,370 @@
+Initializing...
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2a
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2b
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2c
+	Done
+	Done
+[107, 58, 5, 12, 40, 97]
+5
+12
+Again
+Again
+Again
+Again
+Adjusting to left
+97
+106
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Adjusting to left
+96
+102
+Adjusting to left
+96
+98
+Again
+Adjusting to right
+101
+84
+Adjusting to right
+110
+83
+Adjusting to right
+116
+85
+Adjusting to right
+120
+87
+Adjusting to right
+115
+89
+Adjusting to right
+108
+90
+Adjusting to right
+96
+92
+Again
+Adjusting to left
+90
+87
+Adjusting to left
+90
+86
+Adjusting to left
+93
+93
+Adjusting to left
+94
+74
+Adjusting to left
+99
+59
+Adjusting to right
+108
+48
+Adjusting to right
+133
+45
+Adjusting to right
+165
+44
+Adjusting to right
+211
+44
+Adjusting to right
+252
+45
+Adjusting to right
+303
+47
+Adjusting to right
+330
+49
+Adjusting to right
+337
+51
+Adjusting to right
+334
+52
+Adjusting to right
+311
+52
+Adjusting to right
+279
+54
+Adjusting to right
+243
+55
+Adjusting to right
+191
+56
+Adjusting to right
+146
+57
+Adjusting to right
+123
+59
+Adjusting to right
+96
+59
+Again
+Adjusting to left
+68
+63
+Adjusting to left
+70
+61
+Adjusting to left
+73
+93
+Adjusting to left
+78
+105
+Adjusting to left
+84
+108
+Adjusting to left
+87
+89
+Adjusting to left
+87
+74
+Adjusting to left
+87
+53
+Adjusting to left
+89
+37
+Adjusting to left
+91
+25
+Adjusting to left
+99
+19
+Adjusting to right
+116
+13
+Adjusting to right
+248
+11
+Adjusting to right
+265
+10
+Adjusting to right
+265
+11
+Adjusting to right
+265
+10
+Adjusting to right
+265
+11
+Adjusting to right
+265
+10
+Adjusting to right
+265
+10
+Adjusting to right
+264
+10
+Adjusting to right
+265
+10
+Adjusting to right
+265
+10
+Adjusting to right
+266
+10
+Adjusting to right
+266
+10
+Adjusting to right
+266
+10
+Adjusting to right
+266
+10
+Adjusting to right
+266
+11
+Adjusting to right
+266
+10
+Adjusting to right
+266
+10
+Adjusting to right
+266
+11
+Adjusting to right
+266
+10
+Adjusting to right
+266
+10
+Adjusting to right
+266
+10
+Adjusting to right
+266
+11
+Adjusting to right
+266
+10
+Adjusting to right
+267
+11
+Adjusting to right
+266
+10
+Adjusting to right
+266
+10
+Adjusting to right
+266
+11
+Adjusting to right
+266
+11
+Adjusting to right
+266
+10
+Adjusting to right
+266
+10
+Adjusting to right
+266
+10
+Adjusting to right
+266
+10
+Adjusting to right
+266
+10
+Adjusting to right
+266
+11
+Adjusting to right
+266
+10
+Adjusting to right
+267
+10
+Adjusting to right
+266
+10
+Adjusting to right
+266
+11
+Adjusting to right
+266
+10
+Adjusting to right
+266
+11
+Adjusting to right
+266
+10
+Adjusting to right
+266
+10
+Adjusting to right
+266
+11
+Adjusting to right
+266
+11
+Adjusting to right
+267
+10
+Adjusting to right
+266
+11
+Adjusting to right
+266
+11
+Adjusting to right
+266
+11
+Adjusting to right
+266
+10
+Adjusting to right
+266
+10
+Adjusting to right
+266
+10
+Adjusting to right
+266
+10
+Adjusting to right
+266
+10
+Adjusting to right
+266
+10
+Adjusting to right
+266
+10
+Adjusting to right
+266
+10
+Adjusting to right
+266
+10
+Adjusting to right
+265
+10
+Adjusting to right
+259
+10
+Adjusting to right
+120
+10
+Again
+Adjusting to left
+23
+15
+Adjusting to left
+29
+7
+Adjusting to left
+3
+5
+Adjusting to left
+3
+4
+Adjusting to left

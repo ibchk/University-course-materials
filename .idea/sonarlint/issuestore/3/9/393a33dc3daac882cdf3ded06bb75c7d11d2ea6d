@@ -1,0 +1,31 @@
+
+`
+java:S11920"JDefine a constant instead of duplicating this literal "file4.txt" 4 times.(˜úÔ
+I
+java:S1128"3Remove this unused import 'LogFileReaderException'.(¿°•
+g
+java:S1192 "LDefine a constant instead of duplicating this literal "fileNO2.txt" 5 times.(ô±İûùÿÿÿÿ
+e
+java:S1192K"JDefine a constant instead of duplicating this literal "file9.txt" 4 times.(Â¸»ùıÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+£
+java:S11922"ŒDefine a constant instead of duplicating this literal "2019-01-16 17:48:01.049 INFO 60674 --- [nio-8080-exec-1] com.Application : " 5 times.(«ÊëÖ
+d
+java:S1192"IDefine a constant instead of duplicating this literal "file.txt" 3 times.(éæ’¸ıÿÿÿÿ
+i
+java:S1192)"NDefine a constant instead of duplicating this literal "fileEmpty.txt" 7 times.(õÄÀúÿÿÿÿ
+I
+java:S1128"3Remove this unused import 'LogFileWriterException'.(Š‰‰Ê
+w
+java:S1192"\Define a constant instead of duplicating this literal "This gets saved in file.txt" 5 times.(éæ’¸ıÿÿÿÿ
+|
+java:S1192-"aDefine a constant instead of duplicating this literal "This gets saved in file.txt WARN" 4 times.(–”„şÿÿÿÿ
+h
+java:S1192t"MDefine a constant instead of duplicating this literal "log_file.txt" 3 times.(ñÒÄõùÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'LogFileWriter'.(¹˜¯Òıÿÿÿÿ
+\
+java:S11928"FDefine a constant instead of duplicating this literal "ERROR" 4 times.(Å¢Ó‰
+H
+java:S5960"+Remove this assertion from production code.(½òÁ¥8‡‚Ùå€/

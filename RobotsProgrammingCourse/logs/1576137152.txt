@@ -1,0 +1,1492 @@
+Initializing...
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2a
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2b
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2c
+	Done
+	Done
+[700, 595, 711, 63, 784, 573]
+711
+60
+Adjusting to left
+572
+703
+Adjusting to left
+571
+704
+Adjusting to left
+572
+704
+Adjusting to left
+571
+704
+Adjusting to left
+570
+705
+Adjusting to left
+569
+704
+Adjusting to left
+568
+704
+Adjusting to left
+568
+705
+Adjusting to left
+568
+705
+Adjusting to left
+567
+704
+Adjusting to left
+568
+705
+Adjusting to left
+568
+705
+Adjusting to left
+568
+705
+Adjusting to left
+568
+704
+Adjusting to left
+567
+704
+Adjusting to left
+567
+704
+Adjusting to left
+567
+704
+Adjusting to left
+566
+705
+Adjusting to left
+566
+705
+Adjusting to left
+565
+705
+Adjusting to left
+565
+705
+Adjusting to left
+566
+705
+Adjusting to left
+565
+706
+Adjusting to left
+566
+707
+Adjusting to left
+565
+706
+Adjusting to left
+564
+707
+Adjusting to left
+561
+702
+Adjusting to left
+558
+697
+Adjusting to left
+555
+697
+Adjusting to left
+556
+697
+Adjusting to left
+562
+697
+Adjusting to left
+568
+696
+Adjusting to left
+574
+695
+Adjusting to right
+575
+696
+Adjusting to right
+576
+698
+Adjusting to right
+571
+702
+Adjusting to left
+555
+705
+Adjusting to left
+551
+707
+Adjusting to left
+549
+708
+Adjusting to left
+548
+709
+Adjusting to left
+548
+710
+Adjusting to left
+548
+711
+Adjusting to left
+549
+714
+Adjusting to left
+551
+714
+Adjusting to left
+552
+714
+Adjusting to left
+553
+714
+Adjusting to left
+551
+715
+Adjusting to left
+550
+715
+Adjusting to left
+549
+716
+Adjusting to left
+548
+717
+Adjusting to left
+549
+718
+Adjusting to left
+548
+716
+Adjusting to left
+550
+716
+Adjusting to left
+550
+714
+Adjusting to left
+549
+714
+Adjusting to left
+547
+711
+Adjusting to left
+547
+708
+Adjusting to left
+547
+707
+Adjusting to left
+550
+705
+Adjusting to left
+551
+704
+Adjusting to left
+552
+703
+Adjusting to left
+552
+702
+Adjusting to left
+553
+702
+Adjusting to left
+552
+698
+Adjusting to left
+552
+695
+Adjusting to left
+552
+689
+Adjusting to left
+553
+682
+Adjusting to left
+554
+676
+Adjusting to left
+556
+676
+Adjusting to left
+559
+674
+Adjusting to left
+563
+672
+Adjusting to right
+565
+671
+Adjusting to right
+570
+673
+Adjusting to right
+570
+679
+Adjusting to right
+572
+682
+Adjusting to right
+576
+687
+Adjusting to right
+572
+691
+Adjusting to right
+567
+692
+Adjusting to right
+558
+691
+Adjusting to left
+545
+690
+Adjusting to left
+539
+691
+Adjusting to left
+536
+694
+Adjusting to left
+535
+696
+Adjusting to left
+535
+699
+Adjusting to left
+535
+700
+Adjusting to left
+536
+701
+Adjusting to left
+535
+703
+Adjusting to left
+536
+705
+Adjusting to left
+536
+706
+Adjusting to left
+535
+709
+Adjusting to left
+536
+712
+Adjusting to left
+537
+713
+Adjusting to left
+535
+715
+Adjusting to left
+535
+716
+Adjusting to left
+534
+717
+Adjusting to left
+532
+717
+Adjusting to left
+531
+718
+Adjusting to left
+530
+720
+Adjusting to left
+529
+720
+Adjusting to left
+530
+720
+Adjusting to left
+528
+720
+Adjusting to left
+528
+720
+Adjusting to left
+528
+720
+Adjusting to left
+527
+721
+Adjusting to left
+528
+722
+Adjusting to left
+527
+722
+Adjusting to left
+527
+721
+Adjusting to left
+527
+722
+Adjusting to left
+527
+723
+Adjusting to left
+526
+723
+Adjusting to left
+526
+723
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left
+526
+724
+Adjusting to left

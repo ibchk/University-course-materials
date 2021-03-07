@@ -1,0 +1,346 @@
+Initializing...
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2a
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2b
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2c
+	Done
+	Done
+[64, 33, 2, 1, 21, 46]
+2
+1
+Adjusting to left
+46
+64
+B1
+B3
+Planning...
+2
+1
+Adjusting to left
+47
+57
+B1
+B3
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+Planning...
+2
+1
+Adjusting to left
+46
+60
+B1
+B3
+gooo
+gooo
+gooo
+Planning...
+2
+1
+Adjusting to left
+47
+58
+B1
+B3
+gooo
+gooo
+gooo
+gooo
+gooo
+Planning...
+2
+1
+Adjusting to left
+46
+58
+B1
+B3
+Planning...
+2
+1
+Adjusting to left
+47
+52
+B1
+B3
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+Planning...
+2
+1
+Adjusting to left
+44
+55
+B1
+B3
+Planning...
+3
+2
+B3
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+Planning...
+2
+2
+Adjusting to left
+43
+50
+B1
+B3
+Planning...
+2
+2
+B3
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+Planning...
+3
+2
+Adjusting to left
+42
+50
+B1
+B3
+Planning...
+3
+2
+B3
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+Planning...
+3
+2
+Adjusting to left
+40
+49
+B1
+B3
+Planning...
+3
+2
+Adjusting to left
+41
+47
+B1
+B3
+gooo
+Planning...
+3
+2
+Adjusting to left
+42
+45
+B1
+B3
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+Planning...
+3
+2
+Adjusting to left
+38
+48
+B1
+B3
+Planning...
+3
+2
+Adjusting to left
+40
+44
+B1
+B3
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+Planning...
+3
+2
+Adjusting to left
+37
+51
+B1
+B3
+Planning...
+3
+2
+Adjusting to left
+39
+43
+B1
+B3
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+Planning...
+3
+2
+Adjusting to left
+35
+49
+B1
+B3
+Planning...
+3
+2
+Adjusting to left
+37
+43
+B1
+B3
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo
+gooo

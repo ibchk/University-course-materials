@@ -1,0 +1,822 @@
+Initializing...
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2a
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2b
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2c
+	Done
+	Done
+[684, 592, 715, 0, 781, 561]
+715
+0
+Adjusting to left
+561
+686
+Adjusting to left
+562
+688
+Adjusting to left
+561
+687
+Adjusting to left
+561
+691
+Adjusting to left
+560
+691
+Adjusting to left
+561
+692
+Adjusting to left
+560
+691
+Adjusting to left
+560
+693
+Adjusting to left
+558
+692
+Adjusting to left
+558
+693
+Adjusting to left
+557
+694
+Adjusting to left
+556
+694
+Adjusting to left
+556
+694
+Adjusting to left
+556
+694
+Adjusting to left
+555
+693
+Adjusting to left
+556
+694
+Adjusting to left
+556
+694
+Adjusting to left
+558
+694
+Adjusting to left
+556
+692
+Adjusting to left
+557
+691
+Adjusting to left
+559
+692
+Adjusting to left
+559
+692
+Adjusting to left
+558
+693
+Adjusting to left
+557
+692
+Adjusting to left
+557
+693
+Adjusting to left
+559
+694
+Adjusting to left
+559
+692
+Adjusting to left
+559
+692
+Adjusting to left
+559
+690
+Adjusting to left
+562
+688
+Adjusting to left
+562
+688
+Adjusting to left
+560
+689
+Adjusting to left
+559
+688
+Adjusting to left
+560
+687
+Adjusting to left
+559
+686
+Adjusting to left
+560
+684
+Adjusting to left
+562
+685
+Adjusting to right
+563
+683
+Adjusting to right
+564
+681
+Adjusting to right
+566
+680
+Adjusting to right
+568
+683
+Adjusting to right
+562
+683
+Adjusting to left
+518
+683
+Adjusting to left
+499
+685
+Adjusting to left
+487
+685
+Adjusting to left
+482
+683
+Adjusting to left
+481
+681
+Adjusting to left
+479
+678
+Adjusting to left
+478
+672
+Adjusting to left
+476
+668
+Adjusting to left
+477
+664
+Adjusting to left
+476
+662
+Adjusting to left
+477
+659
+Adjusting to left
+476
+657
+Adjusting to left
+475
+657
+Adjusting to left
+476
+655
+Adjusting to left
+475
+653
+Adjusting to left
+476
+651
+Adjusting to left
+477
+649
+Adjusting to left
+476
+647
+Adjusting to left
+477
+643
+Adjusting to left
+477
+644
+Adjusting to left
+477
+643
+Adjusting to left
+480
+645
+Adjusting to left
+484
+650
+Adjusting to left
+487
+655
+Adjusting to left
+489
+657
+Adjusting to left
+491
+660
+Adjusting to left
+492
+660
+Adjusting to left
+490
+660
+Adjusting to left
+490
+662
+Adjusting to left
+489
+661
+Adjusting to left
+488
+661
+Adjusting to left
+488
+662
+Adjusting to left
+487
+662
+Adjusting to left
+486
+663
+Adjusting to left
+487
+665
+Adjusting to left
+486
+664
+Adjusting to left
+487
+665
+Adjusting to left
+486
+666
+Adjusting to left
+488
+667
+Adjusting to left
+487
+668
+Adjusting to left
+487
+668
+Adjusting to left
+485
+672
+Adjusting to left
+481
+675
+Adjusting to left
+477
+679
+Adjusting to left
+476
+685
+Adjusting to left
+475
+690
+Adjusting to left
+474
+694
+Adjusting to left
+472
+699
+Adjusting to left
+471
+704
+Adjusting to left
+471
+705
+Adjusting to left
+471
+708
+Adjusting to left
+471
+709
+Adjusting to left
+471
+712
+Adjusting to left
+472
+713
+Adjusting to left
+472
+717
+Adjusting to left
+473
+722
+Adjusting to left
+473
+727
+Adjusting to left
+473
+734
+Adjusting to left
+473
+736
+Adjusting to left
+472
+741
+Adjusting to left
+472
+745
+Adjusting to left
+472
+747
+Adjusting to left
+472
+749
+Adjusting to left
+473
+750
+Adjusting to left
+473
+750
+Adjusting to left
+474
+751
+Adjusting to left
+474
+751
+Adjusting to left
+473
+752
+Adjusting to left
+473
+752
+Adjusting to left
+473
+752
+Adjusting to left
+473
+753
+Adjusting to left
+474
+752
+Adjusting to left
+473
+753
+Adjusting to left
+473
+753
+Adjusting to left
+472
+753
+Adjusting to left
+473
+754
+Adjusting to left
+473
+754
+Adjusting to left
+473
+753
+Adjusting to left
+473
+754
+Adjusting to left
+473
+753
+Adjusting to left
+472
+749
+Adjusting to left
+473
+746
+Adjusting to left
+473
+738
+Adjusting to left
+473
+728
+Adjusting to left
+473
+722
+Adjusting to left
+475
+716
+Adjusting to left
+476
+712
+Adjusting to left
+476
+711
+Adjusting to left
+477
+708
+Adjusting to left
+476
+703
+Adjusting to left
+476
+700
+Adjusting to left
+475
+697
+Adjusting to left
+477
+701
+Adjusting to left
+478
+706
+Adjusting to left
+479
+717
+Adjusting to left
+480
+734
+Adjusting to left
+480
+753
+Adjusting to left
+481
+780
+Adjusting to left
+480
+815
+Adjusting to left
+480
+820
+Adjusting to left
+480
+820
+Adjusting to left
+480
+820
+Adjusting to left
+480
+819
+Adjusting to left
+480
+820
+Adjusting to left
+480
+820
+Adjusting to left
+479
+820
+Adjusting to left
+480
+820
+Adjusting to left
+479
+819
+Adjusting to left
+480
+819
+Adjusting to left
+480
+819
+Adjusting to left
+480
+818
+Adjusting to left
+479
+819
+Adjusting to left
+479
+818
+Adjusting to left
+479
+818
+Adjusting to left
+480
+818
+Adjusting to left
+480
+818
+Adjusting to left
+479
+818
+Adjusting to left
+479
+817
+Adjusting to left
+480
+817
+Adjusting to left
+480
+817
+Adjusting to left
+479
+817
+Adjusting to left
+479
+818
+Adjusting to left
+480
+816
+Adjusting to left
+480
+817
+Adjusting to left
+479
+817
+Adjusting to left
+479
+817
+Adjusting to left
+480
+817
+Adjusting to left
+479
+817
+Adjusting to left
+480
+817
+Adjusting to left
+479
+817
+Adjusting to left
+479
+817
+Adjusting to left
+479
+817
+Adjusting to left
+479
+816
+Adjusting to left
+479
+818
+Adjusting to left
+478
+817
+Adjusting to left
+479
+818
+Adjusting to left
+479
+818
+Adjusting to left
+479
+817
+Adjusting to left
+479
+818
+Adjusting to left
+479
+817
+Adjusting to left
+479
+817
+Adjusting to left
+479
+816
+Adjusting to left
+479
+816
+Adjusting to left
+479
+817
+Adjusting to left
+479
+817
+Adjusting to left
+479
+817
+Adjusting to left
+478
+817
+Adjusting to left
+480
+817
+Adjusting to left
+479
+817
+Adjusting to left
+478
+817
+Adjusting to left
+479
+817
+Adjusting to left
+479
+816
+Adjusting to left
+479
+816
+Adjusting to left
+479
+816
+Adjusting to left
+479
+816
+Adjusting to left
+479
+815
+Adjusting to left
+479
+815
+Adjusting to left
+479
+815
+Adjusting to left
+478
+815
+Adjusting to left
+478
+815
+Adjusting to left
+478
+814
+Adjusting to left
+479
+814
+Adjusting to left
+478
+814
+Adjusting to left
+478
+814
+Adjusting to left
+478
+813
+Adjusting to left
+479
+812
+Adjusting to left
+479
+812
+Adjusting to left
+478
+813
+Adjusting to left
+479
+812
+Adjusting to left
+479
+812
+Adjusting to left
+478
+812
+Adjusting to left
+478
+811
+Adjusting to left
+478
+811
+Adjusting to left
+478
+811
+Adjusting to left
+478
+812
+Adjusting to left
+478
+811
+Adjusting to left
+478
+811
+Adjusting to left
+478
+811
+Adjusting to left
+479
+811
+Adjusting to left
+479
+811
+Adjusting to left
+479
+811
+Adjusting to left
+478
+811
+Adjusting to left
+478
+811
+Adjusting to left
+478
+812
+Adjusting to left
+478
+811
+Adjusting to left
+478
+811
+Adjusting to left
+478
+811
+Adjusting to left
+478
+811
+Adjusting to left
+479
+812
+Adjusting to left
+478
+811
+Adjusting to left
+478
+811
+Adjusting to left
+478
+812
+Adjusting to left
+477
+812
+Adjusting to left
+477
+811
+Adjusting to left
+478
+811
+Adjusting to left
+478
+812
+Adjusting to left
+478
+810
+Adjusting to left
+479
+812
+Adjusting to left
+478
+811
+Adjusting to left
+478
+812
+Adjusting to left
+478
+811
+Adjusting to left
+478
+811
+Adjusting to left
+478
+811
+Adjusting to left
+478
+811
+Adjusting to left
+478
+812
+Adjusting to left
+478
+811
+Adjusting to left
+478
+811
+Adjusting to left
+477
+811
+Adjusting to left
+478
+810
+Adjusting to left
+478
+811
+Adjusting to left
+477
+811
+Adjusting to left
+479
+811
+Adjusting to left
+478
+811
+Adjusting to left
+478
+811
+Adjusting to left
+478
+811
+Adjusting to left
+478
+811
+Adjusting to left
+478
+811
+Adjusting to left
+479
+811
+Adjusting to left
+478
+810
+Adjusting to left
+477
+811
+Adjusting to left
+477
+811
+Adjusting to left
+478
+811
+Adjusting to left
+478
+812

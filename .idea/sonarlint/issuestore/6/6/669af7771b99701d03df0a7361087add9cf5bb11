@@ -1,0 +1,16 @@
+
+i
+java:S1104"SMake cake_id a static final constant or non-public and provide accessors if needed.(é¸”
+f
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+j
+java:S1104	"OMake BBD a static final constant or non-public and provide accessors if needed.(œÓ°øÿÿÿÿ
+l
+java:S1104
+"QMake price a static final constant or non-public and provide accessors if needed.(ÅßÅñøÿÿÿÿ
+d
+java:S1104"NMake kg a static final constant or non-public and provide accessors if needed.(À®¦„
+r
+java:S1104"WMake ingredients a static final constant or non-public and provide accessors if needed.(‰Œ¤úùÿÿÿÿ
+g	java:S116"RRename this field "cake_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¸”
+h	java:S116	"NRename this field "BBD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÓ°øÿÿÿÿ

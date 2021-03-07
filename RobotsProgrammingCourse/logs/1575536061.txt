@@ -1,0 +1,1414 @@
+Initializing...
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2a
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2b
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2c
+	Done
+	Done
+[61, 36, 5, 3, 21, 40]
+5
+3
+Adjusting to left
+41
+60
+Adjusting to right
+42
+59
+Adjusting to left
+43
+51
+Adjusting to right
+44
+47
+Adjusting to right
+44
+47
+Adjusting to right
+44
+49
+Adjusting to right
+44
+51
+Adjusting to right
+44
+55
+Adjusting to right
+44
+57
+Adjusting to right
+45
+58
+Adjusting to right
+44
+58
+Adjusting to right
+43
+59
+Adjusting to left
+36
+64
+Adjusting to left
+36
+67
+Adjusting to left
+37
+68
+Adjusting to left
+38
+66
+Adjusting to right
+39
+64
+Adjusting to right
+39
+64
+Adjusting to right
+39
+65
+Adjusting to right
+40
+67
+Adjusting to right
+40
+69
+Adjusting to right
+39
+70
+Adjusting to right
+38
+72
+Adjusting to left
+23
+94
+Adjusting to left
+21
+76
+Adjusting to left
+19
+92
+Adjusting to left
+16
+102
+Adjusting to left
+14
+100
+Adjusting to left
+13
+91
+Adjusting to left
+12
+83
+Adjusting to left
+12
+71
+Adjusting to left
+12
+60
+Adjusting to left
+12
+50
+Adjusting to left
+12
+42
+Adjusting to left
+12
+37
+Adjusting to left
+11
+33
+Adjusting to left
+11
+30
+Adjusting to left
+10
+27
+Adjusting to left
+10
+25
+Adjusting to left
+9
+24
+Adjusting to left
+9
+23
+Adjusting to left
+9
+22
+Adjusting to left
+9
+22
+Adjusting to left
+9
+21
+Adjusting to left
+9
+21
+Adjusting to left
+9
+20
+Adjusting to left
+9
+20
+Adjusting to left
+10
+22
+Adjusting to left
+9
+25
+Adjusting to left
+9
+29
+Adjusting to left
+9
+32
+Adjusting to left
+9
+38
+Adjusting to left
+9
+43
+Adjusting to left
+9
+50
+Adjusting to left
+9
+58
+Adjusting to left
+9
+65
+Adjusting to left
+9
+71
+Adjusting to left
+8
+78
+Adjusting to left
+8
+83
+Adjusting to left
+8
+87
+Adjusting to left
+7
+91
+Adjusting to left
+7
+92
+Adjusting to left
+6
+90
+Adjusting to left
+6
+89
+Adjusting to left
+6
+90
+Adjusting to left
+6
+94
+Adjusting to left
+6
+94
+Adjusting to left
+6
+92
+Adjusting to left
+5
+89
+Adjusting to left
+6
+84
+Adjusting to left
+5
+80
+Adjusting to left
+6
+76
+Adjusting to left
+6
+71
+Adjusting to left
+6
+66
+Adjusting to left
+7
+61
+Adjusting to left
+7
+56
+Adjusting to left
+7
+52
+Adjusting to left
+8
+47
+Adjusting to left
+8
+43
+Adjusting to left
+9
+40
+Adjusting to left
+9
+37
+Adjusting to left
+9
+35
+Adjusting to left
+10
+33
+Adjusting to left
+10
+31
+Adjusting to left
+11
+28
+Adjusting to left
+11
+26
+Adjusting to left
+11
+25
+Adjusting to left
+12
+23
+Adjusting to left
+12
+22
+Adjusting to left
+12
+22
+Adjusting to left
+12
+22
+Adjusting to left
+12
+22
+Adjusting to left
+12
+22
+Adjusting to left
+12
+22
+Adjusting to left
+12
+22
+Adjusting to left
+12
+21
+Adjusting to left
+12
+21
+Adjusting to left
+12
+21
+Adjusting to left
+12
+21
+Adjusting to left
+13
+21
+Adjusting to left
+14
+20
+Adjusting to left
+15
+19
+Adjusting to left
+15
+19
+Adjusting to left
+16
+19
+Adjusting to left
+17
+21
+Adjusting to left
+17
+24
+Adjusting to left
+18
+28
+Adjusting to left
+18
+33
+Adjusting to left
+19
+39
+Adjusting to left
+19
+45
+Adjusting to left
+19
+52
+Adjusting to left
+19
+59
+Adjusting to left
+19
+66
+Adjusting to left
+20
+70
+Adjusting to left
+20
+71
+Adjusting to left
+20
+71
+Adjusting to left
+20
+73
+Adjusting to left
+20
+76
+Adjusting to left
+20
+71
+Adjusting to left
+19
+64
+Adjusting to left
+19
+57
+Adjusting to left
+18
+51
+Adjusting to left
+18
+44
+Adjusting to left
+18
+38
+Adjusting to left
+17
+32
+Adjusting to left
+17
+27
+Adjusting to left
+17
+22
+Adjusting to left
+17
+19
+Adjusting to left
+18
+16
+Adjusting to left
+18
+14
+Adjusting to left
+19
+12
+Adjusting to left
+21
+10
+Adjusting to left
+25
+9
+Adjusting to left
+37
+7
+Adjusting to right
+56
+7
+Adjusting to right
+54
+7
+Adjusting to right
+53
+8
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right
+53
+7
+Adjusting to right

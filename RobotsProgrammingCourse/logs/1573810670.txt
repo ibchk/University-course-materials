@@ -1,0 +1,43 @@
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2a
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2b
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2c
+	Done
+	Done
+6.9678 13.9356
+25.5486 20.903399999999998
+20.903399999999998 23.226
+11 11
+0.21760000000000002
+0.20380000000000004
+0.1502
+0.4668
+0.454
+0.2866
+0.5586
+0.3478
+0.3204
+0.30179999999999996
+0.2904
+0.27680000000000005
+0.26420000000000005
+0.2556
+0.24100000000000002
+0.22920000000000001

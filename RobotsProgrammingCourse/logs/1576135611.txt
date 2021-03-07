@@ -1,0 +1,466 @@
+Initializing...
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2a
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2b
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2c
+	Done
+	Done
+[78, 35, 2, 1, 24, 43]
+2
+1
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+Adjusting to right
+57
+37
+Adjusting to right
+60
+37
+Adjusting to right
+65
+37
+Adjusting to right
+71
+37
+Adjusting to right
+76
+38
+Adjusting to right
+80
+39
+Adjusting to right
+85
+39
+Adjusting to right
+90
+40
+Adjusting to right
+93
+41
+Adjusting to right
+94
+42
+Adjusting to right
+93
+42
+Adjusting to right
+88
+43
+Adjusting to right
+82
+44
+Adjusting to right
+72
+45
+Adjusting to right
+62
+46
+Adjusting to right
+52
+46
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+Adjusting to right
+15
+293
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+Adjusting to left
+14
+744
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+Adjusting to right
+15
+624
+SUKA
+SUKA
+SUKA
+Adjusting to right
+15
+558
+Adjusting to right
+15
+565
+Adjusting to right
+16
+581
+Adjusting to right
+16
+598
+Adjusting to right
+16
+619
+SUKA
+SUKA
+Adjusting to left
+16
+698
+SUKA
+SUKA
+Adjusting to left
+15
+410
+Adjusting to left
+15
+342
+Adjusting to left
+14
+275
+Adjusting to left
+14
+217
+Adjusting to left
+13
+135
+Adjusting to left
+12
+90
+Adjusting to left
+11
+81
+Adjusting to left
+10
+58
+Adjusting to left
+9
+42
+Adjusting to left
+8
+31
+Adjusting to left
+7
+23
+Adjusting to left
+6
+17
+Adjusting to left
+5
+12
+Adjusting to left
+5
+9
+Adjusting to left
+4
+7
+Adjusting to left
+3
+6
+Adjusting to left
+3
+5
+Adjusting to left
+3
+5
+Adjusting to left
+3
+4
+Adjusting to left
+2
+4
+Adjusting to left
+2
+5
+Adjusting to left
+2
+4
+Adjusting to left
+2
+4
+Adjusting to left
+2
+5
+Adjusting to left
+2
+5
+Adjusting to left
+2
+6
+Adjusting to left
+2
+8
+Adjusting to left
+2
+11
+Adjusting to left
+2
+20
+Adjusting to left
+2
+48
+Adjusting to left
+2
+52
+Adjusting to left
+2
+52
+Adjusting to left
+2
+51
+Adjusting to left
+2
+51
+Adjusting to left
+2
+51
+Adjusting to left
+2
+51
+Adjusting to left
+2
+51
+Adjusting to left
+2
+51
+Adjusting to left
+2
+51
+Adjusting to left
+2
+51
+Adjusting to left
+2
+51
+Adjusting to left
+2
+51
+Adjusting to left
+2
+51
+Adjusting to left
+2
+50
+Adjusting to left
+2
+50
+Adjusting to left
+2
+50
+Adjusting to left
+2
+49
+Adjusting to left
+2
+30
+Adjusting to left
+3
+12
+Adjusting to left
+3
+6
+Adjusting to left
+4
+4
+Adjusting to left
+9
+5
+Adjusting to left
+28
+9
+Adjusting to right
+52
+18
+Adjusting to right
+66
+28
+Adjusting to right
+74
+38
+Adjusting to right
+73
+43
+Adjusting to right
+72
+43
+Adjusting to right
+70
+44
+Adjusting to right
+66
+45
+Adjusting to right
+60
+45
+Adjusting to right
+57
+45
+Adjusting to right
+56
+46
+Adjusting to right
+55
+46
+Adjusting to right
+51
+46
+Adjusting to right
+47
+45
+Adjusting to right
+43
+45
+Adjusting to right
+38
+45
+Adjusting to right
+34
+45
+Adjusting to right
+31
+44
+Adjusting to right
+27
+43
+Adjusting to right
+27
+44
+Adjusting to right
+31
+58
+Adjusting to right
+32
+65
+Adjusting to right
+31
+67
+Adjusting to right
+29
+69
+Adjusting to right
+28
+73
+Adjusting to right
+29
+77
+Adjusting to right
+31
+81
+Adjusting to right
+32
+82
+Adjusting to right
+33
+82
+Adjusting to right
+32
+83
+Adjusting to right
+32
+85
+Adjusting to right
+31
+87
+Adjusting to right
+30
+87
+Adjusting to right
+31
+86
+Adjusting to right
+30
+86
+Adjusting to right
+30
+88
+Adjusting to right
+29
+90
+Adjusting to right
+28
+93
+Adjusting to right
+26
+95
+Adjusting to right
+24
+99
+Adjusting to right
+23
+103
+Adjusting to right
+21
+108
+Adjusting to right
+19
+114
+Adjusting to right
+18
+119
+Adjusting to right
+16
+125
+SUKA
+Planning...
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+Turn right fuck
+Traceback (most recent call last):
+  File "robot.py", line 91, in <module>
+    robot.main()
+  File "robot.py", line 82, in main
+    self.plan()
+  File "robot.py", line 73, in plan
+    self.turn_right()
+  File "robot.py", line 43, in turn_right
+    self.stop()
+AttributeError: 'Robot' object has no attribute 'stop'

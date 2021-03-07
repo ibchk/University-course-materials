@@ -1,0 +1,35 @@
+Initializing...
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2a
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2b
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2c
+	Done
+	Done
+[82, 38, 2, 1, 23, 39]
+2
+1
+Traceback (most recent call last):
+  File "robot.py", line 93, in <module>
+    robot.main()
+  File "robot.py", line 83, in main
+    self.drive()
+  File "robot.py", line 51, in drive
+    while self.robot.get_front_left_laser < 0.5:
+TypeError: '<' not supported between instances of 'method' and 'float'

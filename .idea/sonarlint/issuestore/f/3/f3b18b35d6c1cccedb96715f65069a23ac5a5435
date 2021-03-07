@@ -1,0 +1,21 @@
+
+f
+java:S1192	"KDefine a constant instead of duplicating this literal "google.com" 4 times.(Âàó¢üÿÿÿÿ
+T
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(“àÄ
+T
+java:S1155>">Use isEmpty() to check whether the collection is empty or not.(“àÄ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦†ÄØ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(€õÌ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(®È¾
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(åÌÂ²
+u
+java:S2293œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÀôËçúÿÿÿÿ
+P
+java:S2864¤"4Iterate over the "entrySet" instead of the "keySet".(íµï…ùÿÿÿÿ
+i
+java:S1871©"MThis branch's code block is the same as the block for the branch on line 166.(ÂÖ¥±øÿÿÿÿ

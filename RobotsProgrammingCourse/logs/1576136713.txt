@@ -1,0 +1,907 @@
+Initializing...
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2a
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2b
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2c
+	Done
+	Done
+[689, 592, 713, 36, 783, 563]
+713
+36
+Adjusting to left
+564
+691
+Adjusting to left
+563
+691
+Adjusting to left
+564
+691
+Adjusting to left
+564
+692
+Adjusting to left
+564
+692
+Adjusting to left
+564
+691
+Adjusting to left
+564
+691
+Adjusting to right
+565
+691
+Adjusting to left
+567
+692
+Adjusting to right
+567
+693
+Adjusting to right
+567
+693
+Adjusting to right
+567
+694
+Adjusting to left
+566
+695
+Adjusting to left
+567
+695
+Adjusting to left
+567
+694
+Adjusting to left
+566
+694
+Adjusting to left
+566
+694
+Adjusting to left
+566
+695
+Adjusting to left
+566
+693
+Adjusting to left
+566
+694
+Adjusting to left
+567
+694
+Adjusting to left
+566
+695
+Adjusting to left
+567
+693
+Adjusting to left
+567
+694
+Adjusting to left
+566
+694
+Adjusting to left
+567
+694
+Adjusting to left
+566
+694
+Adjusting to left
+566
+695
+Adjusting to left
+566
+694
+Adjusting to left
+565
+693
+Adjusting to left
+565
+693
+Adjusting to left
+564
+691
+Adjusting to left
+564
+690
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left
+564
+689
+Adjusting to left

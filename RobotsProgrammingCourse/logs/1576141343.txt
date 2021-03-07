@@ -1,0 +1,2863 @@
+Initializing...
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2a
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2b
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2c
+	Done
+	Done
+[126, 53, 5, 11, 47, 91]
+5
+12
+Again
+Again
+Again
+Again
+Again
+Again
+Adjusting to right
+92
+126
+Adjusting to right
+92
+128
+Adjusting to right
+92
+128
+Again
+Again
+Adjusting to left
+90
+126
+Adjusting to left
+90
+123
+Adjusting to left
+91
+118
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Adjusting to left
+90
+114
+Adjusting to left
+92
+95
+Adjusting to right
+94
+84
+Adjusting to right
+98
+84
+Adjusting to right
+98
+86
+Adjusting to right
+96
+89
+Adjusting to right
+103
+92
+Adjusting to right
+109
+94
+Adjusting to right
+110
+96
+Adjusting to right
+107
+98
+Adjusting to right
+103
+98
+Adjusting to right
+98
+98
+Adjusting to right
+92
+99
+Again
+Adjusting to left
+85
+104
+Adjusting to left
+87
+108
+Adjusting to left
+90
+108
+Adjusting to left
+92
+111
+Adjusting to right
+94
+109
+Adjusting to right
+95
+110
+Adjusting to right
+94
+111
+Adjusting to right
+90
+113
+Again
+Adjusting to left
+88
+114
+Adjusting to left
+91
+114
+Adjusting to right
+91
+114
+Again
+Adjusting to left
+90
+117
+Adjusting to left
+90
+111
+Adjusting to left
+91
+107
+Again
+Again
+Adjusting to right
+94
+93
+Adjusting to right
+98
+91
+Adjusting to right
+99
+91
+Adjusting to right
+101
+93
+Adjusting to right
+99
+95
+Adjusting to right
+100
+96
+Adjusting to right
+99
+97
+Adjusting to right
+98
+97
+Adjusting to right
+94
+94
+Adjusting to right
+89
+87
+Again
+Adjusting to left
+89
+78
+Adjusting to left
+92
+95
+Adjusting to right
+95
+97
+Adjusting to right
+95
+95
+Adjusting to right
+94
+95
+Adjusting to right
+93
+96
+Adjusting to right
+93
+97
+Adjusting to right
+91
+99
+Again
+Adjusting to left
+89
+99
+Adjusting to left
+89
+100
+Adjusting to left
+91
+99
+Adjusting to right
+92
+97
+Adjusting to right
+93
+98
+Adjusting to right
+93
+99
+Adjusting to right
+92
+101
+Adjusting to right
+92
+102
+Adjusting to right
+92
+103
+Adjusting to right
+90
+104
+Again
+Adjusting to left
+87
+105
+Adjusting to left
+88
+106
+Adjusting to left
+89
+106
+Adjusting to left
+90
+104
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Adjusting to left
+91
+100
+Adjusting to left
+91
+100
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Adjusting to left
+91
+99
+Again
+Again
+Again
+Again
+Adjusting to left
+91
+96
+Again
+Again
+Again
+Adjusting to right
+92
+90
+Adjusting to right
+92
+91
+Adjusting to right
+92
+92
+Adjusting to right
+92
+92
+Adjusting to right
+92
+93
+Adjusting to right
+92
+93
+Adjusting to right
+93
+94
+Adjusting to right
+95
+96
+Adjusting to right
+95
+97
+Adjusting to right
+92
+99
+Adjusting to right
+91
+100
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Adjusting to left
+91
+102
+Adjusting to left
+91
+102
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Adjusting to left
+91
+103
+Adjusting to left
+91
+100
+Again
+Again
+Again
+Adjusting to left
+90
+74
+Adjusting to left
+90
+70
+Adjusting to left
+91
+70
+Again
+Again
+Again
+Again
+Adjusting to right
+92
+79
+Again
+Adjusting to right
+92
+79
+Adjusting to right
+94
+80
+Adjusting to right
+95
+80
+Adjusting to right
+97
+81
+Adjusting to right
+99
+82
+Adjusting to right
+102
+83
+Adjusting to right
+103
+83
+Adjusting to right
+104
+83
+Adjusting to right
+104
+83
+Adjusting to right
+105
+83
+Adjusting to right
+105
+83
+Adjusting to right
+105
+83
+Adjusting to right
+106
+83
+Adjusting to right
+106
+83
+Adjusting to right
+106
+83
+Adjusting to right
+106
+84
+Adjusting to right
+107
+85
+Adjusting to right
+109
+86
+Adjusting to right
+107
+87
+Adjusting to right
+106
+87
+Adjusting to right
+105
+87
+Adjusting to right
+103
+88
+Adjusting to right
+99
+89
+Adjusting to right
+95
+90
+Adjusting to right
+91
+92
+Again
+Adjusting to left
+87
+96
+Adjusting to left
+89
+98
+Adjusting to left
+90
+100
+Again
+Again
+Again
+Adjusting to right
+91
+94
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Adjusting to left
+91
+93
+Again
+Again
+Again
+Adjusting to right
+93
+93
+Adjusting to right
+93
+94
+Adjusting to right
+93
+96
+Adjusting to right
+93
+98
+Adjusting to right
+91
+99
+Again
+Adjusting to left
+86
+101
+Adjusting to left
+89
+99
+Adjusting to left
+92
+95
+Adjusting to right
+91
+94
+Again
+Adjusting to left
+90
+95
+Adjusting to left
+91
+93
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Adjusting to right
+95
+88
+Adjusting to right
+96
+89
+Adjusting to right
+98
+90
+Adjusting to right
+99
+91
+Adjusting to right
+99
+92
+Adjusting to right
+97
+93
+Adjusting to right
+92
+94
+Again
+Adjusting to left
+87
+94
+Adjusting to left
+88
+83
+Adjusting to left
+88
+75
+Adjusting to left
+89
+81
+Adjusting to left
+89
+83
+Adjusting to left
+90
+80
+Adjusting to left
+90
+77
+Adjusting to left
+90
+69
+Adjusting to left
+89
+62
+Adjusting to left
+87
+55
+Adjusting to left
+85
+49
+Adjusting to left
+84
+45
+Adjusting to left
+82
+41
+Adjusting to left
+80
+38
+Adjusting to left
+79
+36
+Adjusting to left
+78
+33
+Adjusting to left
+76
+31
+Adjusting to left
+75
+28
+Adjusting to left
+77
+26
+Adjusting to left
+82
+25
+Adjusting to left
+87
+25
+Adjusting to left
+90
+24
+Adjusting to right
+109
+25
+Adjusting to right
+140
+29
+Adjusting to right
+152
+37
+Adjusting to right
+164
+47
+Adjusting to right
+182
+55
+Adjusting to right
+189
+60
+Adjusting to right
+186
+63
+Adjusting to right
+185
+64
+Adjusting to right
+184
+64
+Adjusting to right
+184
+64
+Adjusting to right
+183
+64
+Adjusting to right
+182
+64
+Adjusting to right
+182
+64
+Adjusting to right
+181
+64
+Adjusting to right
+180
+64
+Adjusting to right
+178
+64
+Adjusting to right
+180
+64
+Adjusting to right
+180
+64
+Adjusting to right
+179
+63
+Adjusting to right
+175
+64
+Adjusting to right
+173
+66
+Adjusting to right
+170
+66
+Adjusting to right
+165
+67
+Adjusting to right
+158
+67
+Adjusting to right
+151
+67
+Adjusting to right
+144
+67
+Adjusting to right
+137
+67
+Adjusting to right
+130
+67
+Adjusting to right
+127
+69
+Adjusting to right
+120
+71
+Adjusting to right
+113
+72
+Adjusting to right
+106
+73
+Adjusting to right
+101
+76
+Adjusting to right
+96
+80
+Adjusting to right
+89
+83
+Again
+Adjusting to left
+66
+92
+Adjusting to left
+66
+99
+Adjusting to left
+75
+104
+Adjusting to left
+80
+110
+Adjusting to left
+84
+101
+Adjusting to left
+84
+89
+Adjusting to left
+82
+94
+Adjusting to left
+80
+94
+Adjusting to left
+79
+86
+Adjusting to left
+78
+80
+Adjusting to left
+76
+75
+Adjusting to left
+74
+70
+Adjusting to left
+72
+67
+Adjusting to left
+71
+65
+Adjusting to left
+71
+64
+Adjusting to left
+67
+63
+Adjusting to left
+63
+60
+Adjusting to left
+59
+55
+Adjusting to left
+54
+49
+Adjusting to left
+46
+44
+Adjusting to left
+39
+39
+Adjusting to left
+37
+34
+Adjusting to left
+40
+29
+Adjusting to left
+43
+26
+Adjusting to left
+43
+25
+Adjusting to left
+42
+24
+Adjusting to left
+48
+23
+Adjusting to left
+49
+23
+Adjusting to left
+51
+25
+Adjusting to left
+60
+28
+Adjusting to left
+71
+31
+Adjusting to left
+81
+36
+Adjusting to left
+86
+39
+Adjusting to left
+87
+42
+Adjusting to left
+87
+44
+Adjusting to left
+88
+45
+Adjusting to left
+89
+45
+Adjusting to left
+91
+46
+Again
+Adjusting to right
+94
+46
+Adjusting to right
+95
+46
+Adjusting to right
+95
+46
+Adjusting to right
+84
+45
+Again
+Adjusting to left
+31
+47
+Adjusting to left
+28
+52
+Adjusting to left
+29
+57
+Adjusting to left
+28
+61
+Adjusting to left
+25
+65
+Adjusting to left
+22
+63
+Adjusting to left
+19
+62
+Adjusting to left
+17
+65
+Adjusting to left
+16
+67
+Adjusting to left
+15
+66
+Adjusting to left
+15
+63
+Adjusting to left
+18
+58
+Adjusting to left
+20
+51
+Adjusting to left
+23
+45
+Adjusting to left
+25
+40
+Adjusting to left
+29
+36
+Adjusting to left
+32
+32
+Adjusting to left
+37
+28
+Adjusting to left
+39
+26
+Adjusting to left
+44
+24
+Adjusting to left
+49
+22
+Adjusting to left
+53
+21
+Adjusting to left
+57
+21
+Adjusting to left
+65
+21
+Adjusting to left
+73
+22
+Adjusting to left
+79
+24
+Adjusting to left
+85
+26
+Adjusting to left
+90
+27
+Again
+Adjusting to right
+92
+29
+Adjusting to right
+89
+29
+Again
+Adjusting to left
+87
+30
+Adjusting to left
+87
+30
+Adjusting to left
+87
+30
+Adjusting to left
+86
+30
+Adjusting to left
+85
+30
+Adjusting to left
+84
+31
+Adjusting to left
+83
+31
+Adjusting to left
+83
+33
+Adjusting to left
+87
+37
+Adjusting to left
+92
+41
+Adjusting to right
+95
+45
+Adjusting to right
+89
+47
+Again
+Adjusting to left
+82
+51
+Adjusting to left
+84
+55
+Adjusting to left
+88
+59
+Adjusting to left
+92
+64
+Adjusting to right
+94
+65
+Adjusting to right
+90
+65
+Again
+Adjusting to left
+89
+65
+Adjusting to left
+92
+66
+Adjusting to right
+95
+66
+Adjusting to right
+94
+67
+Adjusting to right
+91
+68
+Again
+Adjusting to left
+90
+71
+Adjusting to left
+92
+75
+Adjusting to right
+92
+78
+Adjusting to right
+91
+79
+Again
+Again
+Again
+Again
+Adjusting to left
+91
+81
+Again
+Again
+Again
+Again
+Again
+Adjusting to left
+91
+82
+Adjusting to left
+91
+82
+Adjusting to right
+91
+83
+Again
+Adjusting to left
+90
+84
+Adjusting to left
+91
+85
+Adjusting to right
+92
+85
+Again
+Again
+Again
+Again
+Again
+Adjusting to left
+91
+85
+Again
+Again
+Again
+Again
+Again
+Again
+Adjusting to left
+91
+86
+Adjusting to left
+91
+86
+Again
+Again
+Again
+Again
+Again
+Adjusting to left
+91
+87
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Adjusting to right
+91
+90
+Again
+Again
+Again
+Again
+Again
+Again
+Adjusting to right
+91
+90
+Again
+Adjusting to right
+92
+91
+Adjusting to right
+92
+92
+Adjusting to right
+94
+93
+Adjusting to right
+93
+94
+Adjusting to right
+91
+95
+Again
+Adjusting to left
+90
+96
+Again
+Again
+Again
+Adjusting to right
+91
+91
+Again
+Adjusting to left
+90
+89
+Again
+Adjusting to left
+90
+87
+Adjusting to left
+90
+84
+Adjusting to left
+90
+83
+Adjusting to left
+91
+82
+Again
+Adjusting to right
+93
+83
+Adjusting to right
+94
+83
+Adjusting to right
+96
+84
+Adjusting to right
+98
+84
+Adjusting to right
+99
+85
+Adjusting to right
+98
+85
+Adjusting to right
+98
+86
+Adjusting to right
+96
+86
+Adjusting to right
+96
+86
+Adjusting to right
+96
+85
+Adjusting to right
+97
+86
+Adjusting to right
+95
+86
+Adjusting to right
+90
+87
+Again
+Adjusting to left
+87
+85
+Adjusting to left
+87
+78
+Adjusting to left
+88
+73
+Adjusting to left
+89
+74
+Adjusting to left
+90
+75
+Adjusting to left
+91
+74
+Again
+Adjusting to right
+93
+71
+Adjusting to right
+97
+72
+Adjusting to right
+101
+74
+Adjusting to right
+105
+75
+Adjusting to right
+108
+77
+Adjusting to right
+108
+77
+Adjusting to right
+109
+77
+Adjusting to right
+109
+77
+Adjusting to right
+109
+77
+Adjusting to right
+109
+77
+Adjusting to right
+112
+78
+Adjusting to right
+113
+79
+Adjusting to right
+112
+80
+Adjusting to right
+112
+80
+Adjusting to right
+111
+80
+Adjusting to right
+111
+80
+Adjusting to right
+110
+80
+Adjusting to right
+110
+80
+Adjusting to right
+109
+80
+Adjusting to right
+109
+80
+Adjusting to right
+108
+80
+Adjusting to right
+106
+81
+Adjusting to right
+105
+81
+Adjusting to right
+106
+82
+Adjusting to right
+105
+83
+Adjusting to right
+105
+84
+Adjusting to right
+105
+85
+Adjusting to right
+101
+86
+Adjusting to right
+98
+87
+Adjusting to right
+96
+87
+Adjusting to right
+97
+88
+Adjusting to right
+97
+89
+Adjusting to right
+95
+88
+Adjusting to right
+93
+89
+Adjusting to right
+92
+89
+Again
+Adjusting to right
+91
+90
+Again
+Again
+Again
+Again
+Adjusting to right
+92
+91
+Adjusting to right
+93
+91
+Adjusting to right
+93
+92
+Adjusting to right
+92
+93
+Adjusting to right
+90
+93
+Again
+Adjusting to left
+89
+94
+Adjusting to left
+90
+94
+Adjusting to left
+92
+94
+Adjusting to right
+93
+95
+Adjusting to right
+93
+96
+Adjusting to right
+93
+97
+Adjusting to right
+91
+97
+Again
+Again
+Adjusting to right
+92
+98
+Again
+Again
+Again
+Again
+Again
+Adjusting to left
+91
+99
+Again
+Again
+Adjusting to left
+90
+99
+Adjusting to left
+91
+99
+Adjusting to left
+90
+99
+Again
+Adjusting to left
+91
+99
+Adjusting to left
+91
+99
+Again
+Again
+Again
+Again
+Adjusting to right
+92
+97
+Adjusting to right
+90
+97
+Again
+Adjusting to left
+90
+94
+Adjusting to left
+89
+90
+Adjusting to left
+89
+81
+Adjusting to left
+88
+76
+Adjusting to left
+86
+78
+Adjusting to left
+87
+78
+Adjusting to left
+96
+77
+Adjusting to right
+101
+75
+Adjusting to right
+104
+75
+Adjusting to right
+110
+76
+Adjusting to right
+113
+78
+Adjusting to right
+113
+79
+Adjusting to right
+113
+79
+Adjusting to right
+113
+80
+Adjusting to right
+114
+80
+Adjusting to right
+113
+81
+Adjusting to right
+114
+82
+Adjusting to right
+113
+83
+Adjusting to right
+111
+83
+Adjusting to right
+110
+84
+Adjusting to right
+107
+84
+Adjusting to right
+104
+85
+Adjusting to right
+104
+86
+Adjusting to right
+101
+86
+Adjusting to right
+100
+85
+Adjusting to right
+96
+86
+Adjusting to right
+93
+88
+Adjusting to right
+91
+89
+Again
+Adjusting to left
+91
+91
+Again
+Adjusting to right
+92
+91
+Adjusting to right
+92
+92
+Adjusting to right
+91
+91
+Again
+Again
+Adjusting to left
+90
+91
+Adjusting to left
+89
+92
+Adjusting to left
+89
+92
+Adjusting to left
+91
+93
+Again
+Again
+Again
+Adjusting to left
+91
+95
+Again
+Again
+Adjusting to right
+92
+92
+Again
+Adjusting to left
+89
+90
+Adjusting to left
+89
+87
+Adjusting to left
+89
+82
+Adjusting to left
+87
+76
+Adjusting to left
+86
+74
+Adjusting to left
+89
+77
+Again
+Adjusting to right
+95
+88
+Adjusting to right
+96
+89
+Adjusting to right
+95
+88
+Adjusting to right
+93
+90
+Adjusting to right
+91
+91
+Again
+Adjusting to left
+91
+94
+Adjusting to right
+92
+94
+Adjusting to right
+91
+94
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Adjusting to right
+92
+93
+Again
+Again
+Adjusting to right
+92
+93
+Adjusting to right
+91
+93
+Again
+Adjusting to right
+92
+93
+Adjusting to right
+92
+93
+Adjusting to right
+92
+93
+Adjusting to right
+92
+93
+Again
+Adjusting to right
+91
+89
+Again
+Adjusting to left
+90
+84
+Adjusting to left
+90
+80
+Adjusting to left
+91
+79
+Again
+Adjusting to right
+94
+78
+Adjusting to right
+94
+77
+Adjusting to right
+95
+78
+Adjusting to right
+96
+79
+Adjusting to right
+99
+79
+Adjusting to right
+100
+79
+Adjusting to right
+101
+80
+Adjusting to right
+102
+80
+Adjusting to right
+101
+80
+Adjusting to right
+102
+80
+Adjusting to right
+104
+80
+Adjusting to right
+104
+81
+Adjusting to right
+104
+81
+Adjusting to right
+104
+81
+Adjusting to right
+103
+81
+Adjusting to right
+103
+80
+Adjusting to right
+103
+81
+Adjusting to right
+103
+82
+Adjusting to right
+101
+82
+Adjusting to right
+100
+82
+Adjusting to right
+98
+83
+Adjusting to right
+96
+83
+Adjusting to right
+91
+84
+Again
+Adjusting to left
+87
+76
+Adjusting to left
+88
+64
+Adjusting to left
+88
+52
+Adjusting to left
+88
+40
+Adjusting to left
+91
+23
+Again
+Adjusting to right
+95
+8
+Adjusting to right
+98
+7
+Adjusting to right
+101
+7
+Adjusting to right
+105
+7
+Adjusting to right
+106
+7
+Adjusting to right
+107
+7
+Adjusting to right
+109
+7
+Adjusting to right
+110
+6
+Adjusting to right
+111
+6
+Adjusting to right
+111
+7
+Adjusting to right
+112
+7
+Adjusting to right
+115
+7
+Adjusting to right
+117
+7
+Adjusting to right
+115
+7
+Adjusting to right
+115
+7
+Adjusting to right
+123
+7
+Adjusting to right
+124
+7
+Adjusting to right
+125
+7
+Adjusting to right
+125
+7
+Adjusting to right
+126
+7
+Adjusting to right
+127
+7
+Adjusting to right
+127
+7
+Adjusting to right
+127
+7
+Adjusting to right
+128
+7
+Adjusting to right
+131
+8
+Adjusting to right
+131
+8
+Adjusting to right
+130
+8
+Adjusting to right
+130
+8
+Adjusting to right
+130
+9
+Adjusting to right
+129
+9
+Adjusting to right
+128
+9
+Adjusting to right
+129
+9
+Adjusting to right
+132
+9
+Adjusting to right
+136
+9
+Adjusting to right
+138
+9
+Adjusting to right
+138
+9
+Adjusting to right
+139
+9
+Adjusting to right
+139
+9
+Adjusting to right
+139
+9
+Adjusting to right
+139
+9
+A wall
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+TURNING RIGHT!
+Turn right fuck
+Adjusting to right
+735
+7
+Adjusting to right
+614
+7
+Adjusting to right
+535
+7
+Adjusting to right
+461
+7
+Adjusting to right
+370
+8
+Adjusting to right
+297
+8
+Adjusting to right
+246
+8
+Adjusting to right
+211
+8
+Adjusting to right
+182
+8
+Adjusting to right
+156
+8
+Adjusting to right
+134
+8
+Adjusting to right
+112
+8
+Adjusting to right
+90
+8
+Again
+Adjusting to left
+76
+8
+Adjusting to left
+77
+8
+Adjusting to left
+79
+8
+Adjusting to left
+81
+8
+Adjusting to left
+81
+8
+Adjusting to left
+81
+8
+Adjusting to left
+81
+8
+Adjusting to left
+81
+8
+Adjusting to left
+81
+8
+Adjusting to left
+81
+8
+Adjusting to left
+81
+8
+Adjusting to left
+81
+8
+Adjusting to left
+81
+8
+Adjusting to left
+81
+8
+Adjusting to left
+82
+8
+Adjusting to left
+86
+8
+Adjusting to left
+88
+8
+Adjusting to left
+90
+7
+Again
+Adjusting to right
+95
+7
+Adjusting to right
+96
+6
+Adjusting to right
+97
+6
+Adjusting to right
+95
+6
+Adjusting to right
+91
+6
+Again
+Adjusting to left
+89
+7
+Adjusting to left
+90
+7
+Again
+Again
+Again
+Adjusting to left
+91
+10
+Again
+Again
+Again
+Adjusting to right
+93
+47
+Adjusting to right
+92
+52
+Again
+Again
+Again
+Again
+Again
+Again
+Adjusting to right
+93
+8
+Adjusting to right
+90
+8
+Again
+Adjusting to left
+89
+7
+Adjusting to left
+92
+6
+Adjusting to right
+93
+6
+Adjusting to right
+92
+6
+Adjusting to right
+92
+6
+Adjusting to right
+91
+6
+Again
+Adjusting to right
+92
+6
+Again
+Again
+Again
+Adjusting to right
+92
+6
+Adjusting to right
+92
+7
+Again
+Again
+Adjusting to right
+91
+6
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Adjusting to right
+92
+7
+Again
+Adjusting to right
+92
+7
+Adjusting to right
+93
+7
+Adjusting to right
+93
+6
+Adjusting to right
+93
+7
+Adjusting to right
+93
+7
+Adjusting to right
+92
+7
+Adjusting to right
+92
+9
+Adjusting to right
+92
+9
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Adjusting to right
+92
+11
+Again
+Again
+Adjusting to right
+91
+11
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Adjusting to left
+92
+6
+Adjusting to right
+97
+6
+Adjusting to right
+91
+6
+Again
+Adjusting to left
+91
+6
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Adjusting to right
+92
+6
+Adjusting to right
+92
+7
+Adjusting to right
+92
+7
+Adjusting to right
+92
+7
+Adjusting to right
+91
+7
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Adjusting to right
+91
+7
+Again
+Again
+Again
+Again
+Again
+Again
+Adjusting to right
+92
+7
+Adjusting to right
+92
+7
+Adjusting to right
+92
+7
+Adjusting to right
+92
+7
+Adjusting to right
+92
+7
+Adjusting to right
+92
+7
+Adjusting to right
+93
+7
+Adjusting to right
+93
+7
+Adjusting to right
+93
+7
+Adjusting to right
+93
+7
+Adjusting to right
+94
+7
+Adjusting to right
+93
+8
+Adjusting to right
+93
+7
+Adjusting to right
+93
+7
+Adjusting to right
+93
+8
+Adjusting to right
+93
+8
+Adjusting to right
+92
+8
+Adjusting to right
+92
+8
+Adjusting to right
+92
+8
+Adjusting to right
+92
+8
+Adjusting to right
+92
+8
+Adjusting to right
+93
+8
+Adjusting to right
+93
+8
+Adjusting to right
+92
+8
+Adjusting to right
+92
+8
+Adjusting to right
+92
+8
+Adjusting to right
+92
+8
+Adjusting to right
+92
+8
+Adjusting to right
+92
+8
+Adjusting to right
+91
+8
+Again
+Again
+Again
+Again
+Again
+Again
+Again
+Adjusting to right
+93
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+7
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+8
+Adjusting to right
+95
+7
+Adjusting to right
+95
+8
+Adjusting to right
+95
+7
+Adjusting to right
+95
+7
+Adjusting to right
+95
+7
+Adjusting to right
+95
+7
+Adjusting to right
+95
+7
+Adjusting to right
+95
+7
+Adjusting to right
+95
+7
+Adjusting to right
+95
+7
+Adjusting to right
+95
+7
+Adjusting to right
+95
+8
+Adjusting to right
+95
+7
+Adjusting to right
+95
+7
+Adjusting to right
+95
+7
+Adjusting to right
+95
+7
+Adjusting to right
+95
+7
+Adjusting to right
+95
+7
+Adjusting to right
+95
+7
+Adjusting to right
+95
+7
+Adjusting to right
+95
+8
+Adjusting to right
+96
+7
+Adjusting to right
+96
+7
+Adjusting to right
+96
+7
+Adjusting to right
+96
+7
+Adjusting to right
+96
+8
+Adjusting to right
+96
+7
+Adjusting to right
+96
+7
+Adjusting to right
+96
+8
+Adjusting to right
+96
+8
+Adjusting to right
+96
+8
+Adjusting to right
+96
+8
+Adjusting to right
+96
+8
+Adjusting to right
+96
+8
+Adjusting to right
+96
+8
+Adjusting to right
+96
+8
+Adjusting to right
+97
+8
+Adjusting to right
+97
+8
+Adjusting to right
+97
+8
+Adjusting to right
+97
+8
+Adjusting to right
+97
+8
+Adjusting to right
+97
+8
+Adjusting to right
+97
+8
+Adjusting to right
+97
+8
+Adjusting to right
+97
+6
+Adjusting to right
+97
+6
+Adjusting to right
+97
+6
+Adjusting to right
+97
+6
+Adjusting to right
+97
+6
+Adjusting to right
+97
+6
+Adjusting to right
+97
+6
+Adjusting to right
+97
+6
+Adjusting to right
+97
+6
+Adjusting to right
+97
+6
+Adjusting to right
+97
+6
+Adjusting to right
+97
+6
+Adjusting to right
+97
+6
+Adjusting to right
+97
+6
+Adjusting to right
+97
+6
+Adjusting to right
+97
+6
+Adjusting to right
+97
+6
+Adjusting to right
+98
+6
+Adjusting to right
+98
+6
+Adjusting to right
+99
+6
+Adjusting to right
+98
+5
+Adjusting to right
+83
+5
+Again
+Adjusting to left
+36
+5
+Adjusting to left
+15
+5
+Adjusting to left
+4
+14
+Adjusting to left
+3
+9
+Adjusting to left
+3
+8
+Adjusting to left
+6
+6
+Adjusting to left
+4
+7
+Adjusting to left
+3
+7
+Adjusting to left
+3
+7
+Adjusting to left
+4
+10
+Adjusting to left
+5
+20
+Adjusting to left
+4
+27
+Adjusting to left
+3
+17
+Adjusting to left
+3
+10
+Adjusting to left
+4
+7
+Adjusting to left
+4
+9
+Adjusting to left
+3
+16
+Adjusting to left
+3
+22
+Adjusting to left
+3
+19
+Adjusting to left
+6
+19
+Adjusting to left
+3
+21
+Adjusting to left
+3
+21
+Adjusting to left
+3
+14
+Adjusting to left
+6
+8
+Adjusting to left
+4
+10
+Adjusting to left
+3
+14
+Adjusting to left
+3
+15
+Adjusting to left
+3
+14
+Adjusting to left
+9
+15
+Adjusting to left
+4
+8
+Adjusting to left
+3
+5
+Adjusting to left
+3
+5
+Adjusting to left
+3
+5
+Adjusting to left
+6
+6
+Adjusting to left
+3
+5
+Adjusting to left
+3
+6
+Adjusting to left
+3
+5
+Adjusting to left
+6
+6
+Adjusting to left
+4
+6
+Adjusting to left
+3
+9
+Adjusting to left
+3
+12
+Adjusting to left
+3
+8
+Adjusting to left
+5
+7
+Adjusting to left
+3
+8
+Adjusting to left
+3
+16
+Adjusting to left
+3
+22
+Adjusting to left
+6
+14
+Adjusting to left
+4
+10
+Adjusting to left
+3
+13
+Adjusting to left
+3
+20
+Adjusting to left
+4
+22
+Adjusting to left
+5
+20
+Adjusting to left
+3
+19
+Adjusting to left
+3
+16
+Adjusting to left
+3
+13
+Adjusting to left
+5
+12
+Adjusting to left
+3
+11
+Adjusting to left
+3
+15
+Adjusting to left
+3
+17
+Adjusting to left
+4
+19
+Adjusting to left
+5
+25
+Adjusting to left
+3
+23
+Adjusting to left
+3
+13
+Adjusting to left
+3
+7
+Adjusting to left
+5
+7
+Adjusting to left

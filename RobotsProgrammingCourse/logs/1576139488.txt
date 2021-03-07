@@ -1,0 +1,410 @@
+Initializing...
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2a
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2b
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2c
+	Done
+	Done
+[94, 49, 5, 12, 51, 114]
+5
+12
+Again
+Again
+Again
+Adjusting to left
+113
+91
+Again
+Again
+Again
+Adjusting to left
+112
+77
+Adjusting to left
+107
+62
+Adjusting to left
+102
+43
+Adjusting to left
+102
+35
+Adjusting to left
+116
+27
+Adjusting to right
+137
+20
+Adjusting to right
+249
+18
+Adjusting to right
+590
+17
+Adjusting to right
+609
+17
+Adjusting to right
+607
+17
+Adjusting to right
+603
+17
+Adjusting to right
+602
+17
+Adjusting to right
+601
+17
+Adjusting to right
+601
+17
+Adjusting to right
+599
+17
+Adjusting to right
+599
+17
+Adjusting to right
+598
+17
+Adjusting to right
+600
+17
+Adjusting to right
+600
+17
+Adjusting to right
+599
+17
+Adjusting to right
+599
+17
+Adjusting to right
+600
+17
+Adjusting to right
+0
+0
+Again
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left
+0
+0
+Adjusting to left

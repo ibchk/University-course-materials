@@ -1,0 +1,35 @@
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2a
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2b
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2c
+	Done
+	Done
+16.258200000000002 16.2582
+10 10
+Traceback (most recent call last):
+  File "robot.py", line 79, in <module>
+    wheels_speed(10, 10)
+  File "robot.py", line 75, in wheels_speed
+    return main(r_speed, l_speed)
+  File "robot.py", line 14, in main
+    get_distance_info()
+  File "robot.py", line 35, in get_distance_info
+    middle_distance.append(robot.get_front_middle_ir())
+AttributeError: 'PiBot' object has no attribute 'get_front_middle_ir'

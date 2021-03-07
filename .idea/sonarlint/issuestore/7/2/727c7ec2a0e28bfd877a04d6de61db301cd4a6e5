@@ -1,0 +1,32 @@
+
+a
+java:S1192("FDefine a constant instead of duplicating this literal "Kalle" 3 times.(÷´º½ûÿÿÿÿ
+a
+java:S1192)"FDefine a constant instead of duplicating this literal "Malle" 4 times.(º‡†„ûÿÿÿÿ
+a
+java:S1192("FDefine a constant instead of duplicating this literal "Kuusk" 3 times.(÷´º½ûÿÿÿÿ
+X
+java:S18542"=Remove this useless assignment to local variable "kalleRimi".(ùîê÷úÿÿÿÿ
+X
+java:S11172"=Rename "kalleRimi" which hides the field declared at line 43.(ùîê÷úÿÿÿÿ
+>	java:S1083")Either remove or fill this block of code.(•è¨¾
+=	java:S108Y")Either remove or fill this block of code.(…âŒ6
+U
+java:S1854ƒ">Remove this useless assignment to local variable "malleCoop2".(ï¢Ş
+Z
+java:S1854‚">Remove this useless assignment to local variable "kalleCoop2".(ÎÓÚ©úÿÿÿÿ
+U
+java:S1854"9Remove this useless assignment to local variable "malle".(Óñš úÿÿÿÿ
+U
+java:S1117"9Rename "malle" which hides the field declared at line 41.(Óñš úÿÿÿÿ
+?	java:S108")Either remove or fill this block of code.(§©Œ«
+I
+java:S14812".Remove this unused "kalleRimi" local variable.(ùîê÷úÿÿÿÿ
+K
+java:S1481‚"/Remove this unused "kalleCoop2" local variable.(ÎÓÚ©úÿÿÿÿ
+F
+java:S1481ƒ"/Remove this unused "malleCoop2" local variable.(ï¢Ş
+F
+java:S1481"*Remove this unused "malle" local variable.(Óñš úÿÿÿÿ
+A
+java:S59605"+Remove this assertion from production code.(Å„´

@@ -1,0 +1,4 @@
+  File "robot.py", line 59
+    while self.robot.get_rear_right_side_ir() > :
+                                                ^
+SyntaxError: invalid syntax

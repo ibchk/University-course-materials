@@ -1,0 +1,946 @@
+Initializing...
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2a
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2b
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2c
+	Done
+	Done
+[700, 588, 707, 688, 785, 565]
+707
+688
+Adjusting to left
+563
+702
+Adjusting to left
+562
+701
+Adjusting to left
+562
+701
+Adjusting to left
+563
+701
+Adjusting to left
+564
+701
+Adjusting to right
+564
+699
+Adjusting to right
+563
+700
+Adjusting to left
+562
+703
+Adjusting to left
+559
+700
+Adjusting to left
+555
+697
+Adjusting to left
+553
+695
+Adjusting to left
+552
+693
+Adjusting to left
+553
+690
+Adjusting to left
+559
+688
+Adjusting to left
+563
+687
+Adjusting to right
+569
+684
+Adjusting to right
+574
+683
+Adjusting to right
+578
+683
+Adjusting to right
+581
+684
+Adjusting to right
+583
+685
+Adjusting to right
+581
+688
+Adjusting to right
+577
+690
+Adjusting to right
+573
+692
+Adjusting to right
+568
+693
+Adjusting to right
+562
+697
+Adjusting to left
+547
+701
+Adjusting to left
+544
+705
+Adjusting to left
+537
+707
+Adjusting to left
+535
+710
+Adjusting to left
+534
+712
+Adjusting to left
+532
+717
+Adjusting to left
+532
+719
+Adjusting to left
+532
+722
+Adjusting to left
+535
+722
+Adjusting to left
+537
+723
+Adjusting to left
+537
+723
+Adjusting to left
+536
+722
+Adjusting to left
+536
+722
+Adjusting to left
+536
+721
+Adjusting to left
+536
+719
+Adjusting to left
+536
+717
+Adjusting to left
+536
+711
+Adjusting to left
+536
+708
+Adjusting to left
+537
+694
+Adjusting to left
+537
+689
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left
+536
+691
+Adjusting to left

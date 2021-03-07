@@ -1,0 +1,4805 @@
+Initializing...
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2a
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2b
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2c
+	Done
+	Done
+[700, 595, 710, 50, 783, 575]
+710
+50
+Adjusting to left
+570
+700
+Adjusting to left
+568
+698
+Adjusting to left
+566
+695
+Adjusting to left
+565
+692
+Adjusting to left
+565
+691
+Adjusting to left
+564
+689
+Adjusting to left
+564
+690
+Adjusting to left
+566
+689
+Adjusting to left
+570
+689
+Adjusting to left
+576
+689
+Adjusting to right
+580
+688
+Adjusting to right
+584
+689
+Adjusting to right
+585
+691
+Adjusting to right
+585
+693
+Adjusting to right
+583
+695
+Adjusting to right
+576
+697
+Adjusting to left
+559
+700
+Adjusting to left
+555
+701
+Adjusting to left
+553
+700
+Adjusting to left
+553
+702
+Adjusting to left
+554
+703
+Adjusting to left
+555
+704
+Adjusting to left
+554
+705
+Adjusting to left
+553
+706
+Adjusting to left
+554
+707
+Adjusting to left
+553
+707
+Adjusting to left
+554
+709
+Adjusting to left
+554
+708
+Adjusting to left
+553
+709
+Adjusting to left
+553
+711
+Adjusting to left
+551
+712
+Adjusting to left
+551
+711
+Adjusting to left
+550
+712
+Adjusting to left
+551
+713
+Adjusting to left
+551
+713
+Adjusting to left
+551
+713
+Adjusting to left
+551
+713
+Adjusting to left
+551
+713
+Adjusting to left
+550
+712
+Adjusting to left
+549
+712
+Adjusting to left
+548
+712
+Adjusting to left
+548
+710
+Adjusting to left
+550
+708
+Adjusting to left
+550
+708
+Adjusting to left
+550
+706
+Adjusting to left
+550
+705
+Adjusting to left
+551
+703
+Adjusting to left
+552
+704
+Adjusting to left
+553
+703
+Adjusting to left
+552
+702
+Adjusting to left
+553
+700
+Adjusting to left
+553
+698
+Adjusting to left
+554
+695
+Adjusting to left
+554
+692
+Adjusting to left
+555
+688
+Adjusting to left
+556
+683
+Adjusting to left
+556
+679
+Adjusting to left
+557
+672
+Adjusting to left
+559
+670
+Adjusting to left
+559
+670
+Adjusting to left
+560
+671
+Adjusting to left
+561
+669
+Adjusting to left
+562
+668
+Adjusting to left
+564
+666
+Adjusting to left
+566
+665
+Adjusting to right
+569
+665
+Adjusting to right
+573
+667
+Adjusting to right
+576
+669
+Adjusting to right
+578
+670
+Adjusting to right
+578
+671
+Adjusting to right
+580
+674
+Adjusting to right
+582
+676
+Adjusting to right
+586
+677
+Adjusting to right
+589
+678
+Adjusting to right
+590
+679
+Adjusting to right
+589
+679
+Adjusting to right
+586
+679
+Adjusting to right
+582
+681
+Adjusting to right
+580
+682
+Adjusting to right
+577
+682
+Adjusting to right
+573
+685
+Adjusting to right
+570
+686
+Adjusting to right
+567
+688
+Adjusting to right
+563
+689
+Adjusting to left
+544
+693
+Adjusting to left
+543
+695
+Adjusting to left
+542
+696
+Adjusting to left
+541
+697
+Adjusting to left
+539
+697
+Adjusting to left
+538
+697
+Adjusting to left
+537
+698
+Adjusting to left
+535
+699
+Adjusting to left
+535
+699
+Adjusting to left
+535
+700
+Adjusting to left
+534
+700
+Adjusting to left
+534
+700
+Adjusting to left
+535
+700
+Adjusting to left
+532
+701
+Adjusting to left
+533
+701
+Adjusting to left
+532
+701
+Adjusting to left
+532
+701
+Adjusting to left
+531
+700
+Adjusting to left
+530
+702
+Adjusting to left
+530
+701
+Adjusting to left
+530
+701
+Adjusting to left
+528
+702
+Adjusting to left
+528
+703
+Adjusting to left
+528
+703
+Adjusting to left
+527
+703
+Adjusting to left
+527
+703
+Adjusting to left
+527
+704
+Adjusting to left
+527
+704
+Adjusting to left
+527
+706
+Adjusting to left
+527
+706
+Adjusting to left
+527
+707
+Adjusting to left
+528
+707
+Adjusting to left
+529
+708
+Adjusting to left
+529
+709
+Adjusting to left
+528
+709
+Adjusting to left
+528
+710
+Adjusting to left
+528
+712
+Adjusting to left
+528
+714
+Adjusting to left
+529
+713
+Adjusting to left
+529
+715
+Adjusting to left
+530
+715
+Adjusting to left
+530
+715
+Adjusting to left
+530
+715
+Adjusting to left
+530
+715
+Adjusting to left
+530
+716
+Adjusting to left
+530
+716
+Adjusting to left
+530
+716
+Adjusting to left
+530
+717
+Adjusting to left
+529
+717
+Adjusting to left
+530
+718
+Adjusting to left
+529
+717
+Adjusting to left
+530
+718
+Adjusting to left
+530
+718
+Adjusting to left
+530
+717
+Adjusting to left
+530
+718
+Adjusting to left
+531
+717
+Adjusting to left
+531
+718
+Adjusting to left
+531
+718
+Adjusting to left
+531
+718
+Adjusting to left
+533
+717
+Adjusting to left
+531
+716
+Adjusting to left
+532
+716
+Adjusting to left
+532
+715
+Adjusting to left
+533
+715
+Adjusting to left
+532
+714
+Adjusting to left
+532
+713
+Adjusting to left
+532
+713
+Adjusting to left
+532
+712
+Adjusting to left
+532
+710
+Adjusting to left
+532
+707
+Adjusting to left
+534
+704
+Adjusting to left
+534
+701
+Adjusting to left
+534
+696
+Adjusting to left
+534
+692
+Adjusting to left
+535
+690
+Adjusting to left
+535
+689
+Adjusting to left
+535
+689
+Adjusting to left
+534
+689
+Adjusting to left
+535
+690
+Adjusting to left
+535
+690
+Adjusting to left
+535
+690
+Adjusting to left
+535
+690
+Adjusting to left
+536
+690
+Adjusting to left
+534
+691
+Adjusting to left
+534
+690
+Adjusting to left
+534
+691
+Adjusting to left
+534
+691
+Adjusting to left
+534
+691
+Adjusting to left
+534
+692
+Adjusting to left
+534
+693
+Adjusting to left
+534
+693
+Adjusting to left
+534
+692
+Adjusting to left
+534
+691
+Adjusting to left
+533
+689
+Adjusting to left
+534
+687
+Adjusting to left
+534
+683
+Adjusting to left
+536
+681
+Adjusting to left
+538
+678
+Adjusting to left
+540
+675
+Adjusting to left
+542
+673
+Adjusting to left
+543
+669
+Adjusting to left
+546
+665
+Adjusting to left
+547
+664
+Adjusting to right
+550
+661
+Adjusting to right
+552
+662
+Adjusting to right
+556
+663
+Adjusting to right
+560
+665
+Adjusting to right
+563
+668
+Adjusting to right
+569
+669
+Adjusting to right
+573
+671
+Adjusting to right
+576
+675
+Adjusting to right
+579
+677
+Adjusting to right
+579
+678
+Adjusting to right
+578
+680
+Adjusting to right
+574
+682
+Adjusting to right
+569
+684
+Adjusting to right
+564
+684
+Adjusting to right
+557
+684
+Adjusting to right
+551
+685
+Adjusting to right
+545
+686
+Adjusting to left
+534
+686
+Adjusting to left
+533
+687
+Adjusting to left
+533
+688
+Adjusting to left
+534
+688
+Adjusting to left
+533
+688
+Adjusting to left
+533
+688
+Adjusting to left
+532
+689
+Adjusting to left
+532
+690
+Adjusting to left
+532
+690
+Adjusting to left
+532
+690
+Adjusting to left
+532
+692
+Adjusting to left
+531
+692
+Adjusting to left
+532
+694
+Adjusting to left
+532
+695
+Adjusting to left
+532
+696
+Adjusting to left
+532
+697
+Adjusting to left
+533
+699
+Adjusting to left
+533
+699
+Adjusting to left
+534
+703
+Adjusting to left
+534
+703
+Adjusting to left
+533
+705
+Adjusting to left
+533
+705
+Adjusting to left
+533
+705
+Adjusting to left
+532
+707
+Adjusting to left
+532
+707
+Adjusting to left
+532
+706
+Adjusting to left
+531
+707
+Adjusting to left
+532
+707
+Adjusting to left
+531
+707
+Adjusting to left
+531
+708
+Adjusting to left
+531
+708
+Adjusting to left
+531
+708
+Adjusting to left
+531
+708
+Adjusting to left
+531
+708
+Adjusting to left
+531
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530
+708
+Adjusting to left
+530

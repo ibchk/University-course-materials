@@ -1,0 +1,1454 @@
+Initializing...
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2a
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2b
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2c
+	Done
+	Done
+[62, 31, 4, 3, 25, 41]
+4
+3
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+Adjusting to left
+41
+56
+SUKA
+SUKA
+Adjusting to right
+42
+51
+Adjusting to right
+43
+50
+Adjusting to right
+43
+50
+Adjusting to right
+45
+50
+Adjusting to right
+45
+49
+Adjusting to right
+45
+49
+Adjusting to right
+42
+48
+Adjusting to right
+41
+48
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+Adjusting to right
+26
+97
+Adjusting to right
+26
+98
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+Adjusting to left
+26
+92
+Adjusting to left
+26
+90
+Adjusting to left
+26
+86
+Adjusting to left
+26
+81
+Adjusting to left
+26
+76
+Adjusting to left
+25
+71
+Adjusting to left
+25
+65
+Adjusting to left
+25
+55
+Adjusting to left
+24
+45
+Adjusting to left
+24
+41
+Adjusting to left
+23
+37
+Adjusting to left
+23
+32
+Adjusting to left
+23
+28
+Adjusting to left
+22
+25
+Adjusting to left
+22
+21
+Adjusting to left
+21
+18
+Adjusting to left
+19
+15
+Adjusting to left
+19
+13
+Adjusting to left
+18
+12
+Adjusting to left
+17
+11
+Adjusting to left
+16
+10
+Adjusting to left
+15
+11
+Adjusting to left
+13
+11
+Adjusting to left
+12
+11
+Adjusting to left
+10
+11
+Adjusting to left
+7
+12
+Adjusting to left
+6
+13
+Adjusting to left
+5
+14
+Adjusting to left
+4
+13
+Adjusting to left
+4
+13
+Adjusting to left
+4
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+4
+13
+Adjusting to left
+4
+13
+Adjusting to left
+11
+12
+Adjusting to left
+23
+11
+Adjusting to left
+35
+11
+Adjusting to right
+50
+16
+Adjusting to right
+59
+20
+Adjusting to right
+61
+21
+Adjusting to right
+63
+20
+Adjusting to right
+67
+20
+Adjusting to right
+74
+21
+Adjusting to right
+81
+21
+Adjusting to right
+92
+21
+Adjusting to right
+104
+22
+Adjusting to right
+64
+22
+Adjusting to right
+18
+23
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+Adjusting to left
+4
+76
+SUKA
+Adjusting to left
+5
+60
+SUKA
+SUKA
+SUKA
+SUKA
+SUKA
+Adjusting to left
+14
+52
+Adjusting to left
+13
+61
+Adjusting to left
+12
+70
+Adjusting to left
+11
+80
+Adjusting to left
+10
+88
+Adjusting to left
+9
+93
+Adjusting to left
+8
+96
+Adjusting to left
+6
+97
+Adjusting to left
+5
+93
+Adjusting to left
+4
+89
+Adjusting to left
+4
+85
+Adjusting to left
+3
+80
+Adjusting to left
+3
+72
+Adjusting to left
+3
+65
+Adjusting to left
+3
+58
+Adjusting to left
+3
+52
+Adjusting to left
+3
+46
+Adjusting to left
+3
+41
+Adjusting to left
+3
+36
+Adjusting to left
+3
+30
+Adjusting to left
+3
+26
+Adjusting to left
+3
+22
+Adjusting to left
+3
+18
+Adjusting to left
+4
+15
+Adjusting to left
+4
+14
+Adjusting to left
+4
+11
+Adjusting to left
+4
+10
+Adjusting to left
+4
+9
+Adjusting to left
+4
+8
+Adjusting to left
+4
+7
+Adjusting to left
+4
+7
+Adjusting to left
+5
+7
+Adjusting to left
+5
+7
+Adjusting to left
+5
+7
+Adjusting to left
+5
+7
+Adjusting to left
+5
+7
+Adjusting to left
+5
+8
+Adjusting to left
+5
+8
+Adjusting to left
+5
+9
+Adjusting to left
+5
+10
+Adjusting to left
+5
+10
+Adjusting to left
+5
+11
+Adjusting to left
+5
+10
+Adjusting to left
+5
+9
+Adjusting to left
+5
+10
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+10
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+10
+Adjusting to left
+5
+10
+Adjusting to left
+5
+10
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+10
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+10
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+10
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+10
+Adjusting to left
+5
+9
+Adjusting to left
+5
+10
+Adjusting to left
+5
+9
+Adjusting to left
+5
+10
+Adjusting to left
+5
+9
+Adjusting to left
+5
+10
+Adjusting to left
+5
+10
+Adjusting to left
+5
+10
+Adjusting to left
+5
+10
+Adjusting to left
+5
+9
+Adjusting to left
+5
+10
+Adjusting to left
+5
+9
+Adjusting to left
+5
+10
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left
+5
+9
+Adjusting to left

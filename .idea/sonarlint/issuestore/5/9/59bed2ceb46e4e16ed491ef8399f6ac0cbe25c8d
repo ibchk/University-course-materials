@@ -1,0 +1,59 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(˜Ÿ„ú
+E
+java:S1066/"/Merge this if statement with the enclosing one.(Á­‰
+R
+java:S3655U"7Call "Optional#isPresent()" before accessing the value.(†à™úÿÿÿÿ
+R
+java:S3655e"7Call "Optional#isPresent()" before accessing the value.(ç¢ËÓıÿÿÿÿ
+R
+java:S3655["7Call "Optional#isPresent()" before accessing the value.(²Ö¤ıÿÿÿÿ
+M
+java:S3655W"7Call "Optional#isPresent()" before accessing the value.(¿Æ°€
+M
+java:S3655s"7Call "Optional#isPresent()" before accessing the value.(Æü£
+R
+java:S3655T"7Call "Optional#isPresent()" before accessing the value.(„şÁûÿÿÿÿ
+R
+java:S3655V"7Call "Optional#isPresent()" before accessing the value.(‚Áñìüÿÿÿÿ
+M
+java:S3655S"7Call "Optional#isPresent()" before accessing the value.(ñë×±
+0
+java:S1220""Move this file to a named package.
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‰†„©
+J
+java:S1172>"/Remove this unused method parameter "priority".(çü”îıÿÿÿÿ
+T
+java:S1854e"9Remove this useless assignment to local variable "task7".(ç¢ËÓıÿÿÿÿ
+O
+java:S1854W"9Remove this useless assignment to local variable "task5".(¿Æ°€
+T
+java:S1854V"9Remove this useless assignment to local variable "task4".(‚Áñìüÿÿÿÿ
+T
+java:S1854T"9Remove this useless assignment to local variable "task2".(„şÁûÿÿÿÿ
+O
+java:S1854S"9Remove this useless assignment to local variable "task1".(ñë×±
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(˜Î‚×
+B
+java:S2201["'The return value of "get" must be used.(²Ö¤ıÿÿÿÿ
+M	java:S106]"9Replace this use of System.out or System.err by a logger.(ëô
+N	java:S106^"9Replace this use of System.out or System.err by a logger.(ÉµœÂ
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(ÄŸ×ã
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(Â£ˆöúÿÿÿÿ
+N	java:S106b"9Replace this use of System.out or System.err by a logger.(ÉµœÂ
+N	java:S106g"9Replace this use of System.out or System.err by a logger.(ÉµœÂ
+M	java:S106m"9Replace this use of System.out or System.err by a logger.(…ƒ“p
+=
+java:S2201s"'The return value of "get" must be used.(Æü£
+@
+java:S1481S"*Remove this unused "task1" local variable.(ñë×±
+E
+java:S1481T"*Remove this unused "task2" local variable.(„şÁûÿÿÿÿ
+E
+java:S1481V"*Remove this unused "task4" local variable.(‚Áñìüÿÿÿÿ
+@
+java:S1481W"*Remove this unused "task5" local variable.(¿Æ°€
+E
+java:S1481e"*Remove this unused "task7" local variable.(ç¢ËÓıÿÿÿÿ

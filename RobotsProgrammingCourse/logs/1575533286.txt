@@ -1,0 +1,949 @@
+Initializing...
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2a
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2b
+	Done
+	Done
+Set address from 0x29 to 0x29
+	Done
+	Done
+	Done
+Set address from 0x29 to 0x2c
+	Done
+	Done
+[65, 30, 2, 1, 24, 45]
+2
+1
+Adjusting to left
+45
+64
+Adjusting to left
+45
+62
+Adjusting to left
+46
+60
+Adjusting to left
+47
+58
+Adjusting to left
+48
+54
+Adjusting to left
+49
+50
+Adjusting to right
+52
+41
+Adjusting to right
+54
+39
+Adjusting to right
+57
+39
+Adjusting to right
+61
+39
+Adjusting to right
+63
+39
+Adjusting to right
+64
+39
+Adjusting to right
+72
+38
+Adjusting to right
+79
+37
+Adjusting to right
+83
+38
+Adjusting to right
+85
+38
+Adjusting to right
+86
+38
+Adjusting to right
+87
+39
+Adjusting to right
+85
+39
+Adjusting to right
+83
+40
+Adjusting to right
+81
+41
+Adjusting to right
+75
+42
+Adjusting to right
+68
+43
+Adjusting to right
+62
+45
+Adjusting to right
+55
+47
+Adjusting to right
+49
+48
+Adjusting to left
+39
+52
+Adjusting to left
+37
+55
+Adjusting to left
+36
+52
+Adjusting to left
+36
+56
+Adjusting to left
+36
+69
+Adjusting to left
+36
+72
+Adjusting to left
+36
+71
+Adjusting to left
+36
+71
+Adjusting to left
+37
+70
+Adjusting to left
+37
+67
+Adjusting to left
+38
+63
+Adjusting to left
+39
+58
+Adjusting to left
+41
+53
+Adjusting to left
+42
+47
+Adjusting to right
+48
+38
+Adjusting to right
+51
+36
+Adjusting to right
+56
+35
+Adjusting to right
+63
+33
+Adjusting to right
+71
+31
+Adjusting to right
+81
+29
+Adjusting to right
+95
+27
+Adjusting to right
+112
+26
+Adjusting to right
+126
+27
+Adjusting to right
+146
+28
+Adjusting to right
+160
+28
+Adjusting to right
+171
+28
+Adjusting to right
+199
+28
+Adjusting to right
+216
+28
+Adjusting to right
+227
+29
+Adjusting to right
+237
+29
+Adjusting to right
+234
+29
+Adjusting to right
+233
+29
+Adjusting to right
+222
+29
+Adjusting to right
+202
+29
+Adjusting to right
+196
+29
+Adjusting to right
+182
+29
+Adjusting to right
+161
+30
+Adjusting to right
+141
+31
+Adjusting to right
+119
+32
+Adjusting to right
+101
+33
+Adjusting to right
+84
+35
+Adjusting to right
+68
+36
+Adjusting to right
+53
+36
+Adjusting to right
+47
+38
+Adjusting to right
+41
+43
+Adjusting to left
+33
+44
+Adjusting to left
+31
+48
+Adjusting to left
+30
+62
+Adjusting to left
+30
+70
+Adjusting to left
+30
+77
+Adjusting to left
+31
+85
+Adjusting to left
+31
+92
+Adjusting to left
+31
+100
+Adjusting to left
+32
+102
+Adjusting to left
+31
+107
+Adjusting to left
+31
+112
+Adjusting to left
+32
+109
+Adjusting to left
+32
+106
+Adjusting to left
+32
+103
+Adjusting to left
+32
+98
+Adjusting to left
+32
+89
+Adjusting to left
+32
+82
+Adjusting to left
+32
+74
+Adjusting to left
+32
+65
+Adjusting to left
+33
+57
+Adjusting to left
+33
+49
+Adjusting to left
+34
+42
+Adjusting to left
+35
+36
+Adjusting to right
+40
+27
+Adjusting to right
+45
+25
+Adjusting to right
+53
+23
+Adjusting to right
+65
+22
+Adjusting to right
+82
+22
+Adjusting to right
+101
+22
+Adjusting to right
+130
+21
+Adjusting to right
+57
+21
+Adjusting to right
+10
+21
+Adjusting to left
+4
+20
+Adjusting to left
+4
+19
+Adjusting to left
+3
+18
+Adjusting to left
+3
+17
+Adjusting to left
+4
+16
+Adjusting to left
+3
+16
+Adjusting to left
+3
+15
+Adjusting to left
+3
+15
+Adjusting to left
+3
+14
+Adjusting to left
+3
+14
+Adjusting to left
+3
+14
+Adjusting to left
+3
+13
+Adjusting to left
+3
+13
+Adjusting to left
+3
+14
+Adjusting to left
+3
+15
+Adjusting to left
+3
+17
+Adjusting to left
+3
+21
+Adjusting to left
+2
+26
+Adjusting to left
+2
+33
+Adjusting to left
+2
+41
+Adjusting to left
+2
+54
+Adjusting to left
+2
+71
+Adjusting to left
+2
+97
+Adjusting to left
+2
+136
+Adjusting to left
+2
+220
+Adjusting to left
+2
+326
+Adjusting to left
+2
+423
+Adjusting to left
+2
+567
+Adjusting to left
+2
+671
+Adjusting to left
+2
+694
+Adjusting to left
+2
+691
+Adjusting to left
+2
+688
+Adjusting to left
+2
+689
+Adjusting to left
+2
+689
+Adjusting to left
+2
+684
+Adjusting to left
+2
+680
+Adjusting to left
+2
+672
+Adjusting to left
+2
+667
+Adjusting to left
+2
+663
+Adjusting to left
+2
+651
+Adjusting to left
+2
+644
+Adjusting to left
+1
+633
+Adjusting to left
+2
+623
+Adjusting to left
+2
+616
+Adjusting to left
+2
+614
+Adjusting to left
+1
+617
+Adjusting to left
+2
+616
+Adjusting to left
+1
+615
+Adjusting to left
+1
+613
+Adjusting to left
+1
+611
+Adjusting to left
+2
+619
+Adjusting to left
+2
+635
+Adjusting to left
+1
+629
+Adjusting to left
+2
+618
+Adjusting to left
+2
+611
+Adjusting to left
+2
+603
+Adjusting to left
+2
+598
+Adjusting to left
+1
+597
+Adjusting to left
+2
+627
+Adjusting to left
+2
+656
+Adjusting to left
+2
+673
+Adjusting to left
+2
+688
+Adjusting to left
+2
+685
+Adjusting to left
+2
+681
+Adjusting to left
+2
+687
+Adjusting to left
+2
+708
+Adjusting to left
+2
+698
+Adjusting to left
+2
+712
+Adjusting to left
+2
+711
+Adjusting to left
+2
+706
+Adjusting to left
+2
+703
+Adjusting to left
+2
+698
+Adjusting to left
+2
+695
+Adjusting to left
+2
+693
+Adjusting to left
+2
+692
+Adjusting to left
+2
+692
+Adjusting to left
+2
+689
+Adjusting to left
+2
+688
+Adjusting to left
+2
+685
+Adjusting to left
+2
+680
+Adjusting to left
+2
+677
+Adjusting to left
+2
+677
+Adjusting to left
+2
+676
+Adjusting to left
+2
+675
+Adjusting to left
+2
+672
+Adjusting to left
+2
+670
+Adjusting to left
+2
+662
+Adjusting to left
+2
+658
+Adjusting to left
+2
+652
+Adjusting to left
+2
+647
+Adjusting to left
+2
+639
+Adjusting to left
+2
+632
+Adjusting to left
+2
+628
+Adjusting to left
+2
+622
+Adjusting to left
+2
+627
+Adjusting to left
+2
+641
+Adjusting to left
+2
+646
+Adjusting to left
+2
+647
+Adjusting to left
+3
+644
+Adjusting to left
+3
+626
+Adjusting to left
+2
+616
+Adjusting to left
+3
+611
+Adjusting to left
+3
+618
+Adjusting to left
+3
+669
+Adjusting to left
+4
+693
+Adjusting to left
+4
+695
+Adjusting to left
+4
+704
+Adjusting to left
+4
+712
+Adjusting to left
+4
+709
+Adjusting to left
+4
+705
+Adjusting to left
+4
+703
+Adjusting to left
+3
+698
+Adjusting to left
+3
+698
+Adjusting to left
+3
+697
+Adjusting to left
+3
+695
+Adjusting to left
+3
+695
+Adjusting to left
+3
+694
+Adjusting to left
+3
+694
+Adjusting to left
+3
+695
+Adjusting to left
+3
+694
+Adjusting to left
+3
+693
+Adjusting to left
+2
+692
+Adjusting to left
+3
+691
+Adjusting to left
+3
+690
+Adjusting to left
+2
+688
+Adjusting to left
+2
+688
+Adjusting to left
+2
+686
+Adjusting to left
+2
+684
+Adjusting to left
+2
+683
+Adjusting to left
+2
+681
+Adjusting to left
+2
+679
+Adjusting to left
+2
+679
+Adjusting to left
+2
+678
+Adjusting to left
+2
+679
+Adjusting to left
+2
+679
+Adjusting to left
+2
+677
+Adjusting to left
+2
+677
+Adjusting to left
+2
+676
+Adjusting to left
+2
+676
+Adjusting to left
+2
+676
+Adjusting to left
+2
+676
+Adjusting to left
+2
+675
+Adjusting to left
+2
+675
+Adjusting to left
+2
+676
+Adjusting to left
+2
+675
+Adjusting to left
+2
+674
+Adjusting to left
+2
+674
+Adjusting to left
+2
+675
+Adjusting to left
+2
+674
+Adjusting to left
+2
+674
+Adjusting to left
+2
+675
+Adjusting to left
+2
+674
+Adjusting to left
+2
+675
+Adjusting to left
+2
+676
+Adjusting to left
+2
+676
+Adjusting to left
+2
+677
+Adjusting to left
+2
+679
+Adjusting to left
+2
+679
+Adjusting to left
+2
+680
+Adjusting to left
+2
+681
+Adjusting to left
+2
+681
+Adjusting to left
+2
+681
+Adjusting to left
+2
+682
+Adjusting to left
+2
+682
+Adjusting to left
+2
+682
+Adjusting to left
+2
+682
+Adjusting to left
+2
+681
+Adjusting to left
+2
+680
+Adjusting to left
+2
+681
+Adjusting to left
+2
+681
+Adjusting to left
+2
+682
+Adjusting to left
+2
+680
+Adjusting to left
+2
+680
+Adjusting to left
+2
+682
+Adjusting to left
+2
+679
+Adjusting to left
+2
+682
+Adjusting to left
+2
+681
+Adjusting to left
+2
+681
+Adjusting to left
+2
+683
+Adjusting to left
+2
+681
+Adjusting to left
+2
+682
+Adjusting to left
+2
+681
+Adjusting to left
+2
+681
+Adjusting to left
+2
+680
+Adjusting to left
+2
+682
+Adjusting to left
+2
+681
+Adjusting to left
+2
+681
+Adjusting to left
+2
+681
+Adjusting to left
+2
+681
+Adjusting to left
+2
+681
+Adjusting to left
+2
+681
+Adjusting to left
+2
+681
+Adjusting to left
+2
+682
+Adjusting to left
+2
+682
+Adjusting to left
+2
+680
+Adjusting to left
+2
+681
+Adjusting to left
+2
+680
+Adjusting to left
+2
+680
+Adjusting to left
+2
+682
+Adjusting to left
+2
+680
+Adjusting to left
+2
+680
+Adjusting to left
+2
+680
+Adjusting to left
+2
+680
+Adjusting to left
+2
+680
+Adjusting to left
