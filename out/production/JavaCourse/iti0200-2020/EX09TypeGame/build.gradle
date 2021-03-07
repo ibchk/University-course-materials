@@ -1,0 +1,67 @@
+plugins {
+    id 'java'
+    id 'org.openjfx.javafxplugin' version '0.0.7'
+    id 'application'
+}
+
+group = "ee.taltech.iti0200.gemaeex09"
+version = "1.0.1"
+
+sourceCompatibility = 8
+
+repositories {
+    mavenCentral()
+}
+
+sourceSets {
+    main {
+        java {
+            srcDir("src")
+        }
+        resources {
+            srcDir("resources")
+        }
+    }
+}
+
+repositories {
+    flatDir {
+        dirs 'lib'
+    }
+}
+
+def currentOS = org.gradle.internal.os.OperatingSystem.current()
+def platform
+if (currentOS.isWindows()) {
+    platform = 'win'
+} else if (currentOS.isLinux()) {
+    platform = 'linux'
+} else if (currentOS.isMacOsX()) {
+    platform = 'mac'
+}
+
+dependencies {
+    compile "org.openjfx:javafx-base:11:${platform}"
+    compile "org.openjfx:javafx-graphics:11:${platform}"
+    compile "org.openjfx:javafx-controls:11:${platform}"
+    compile "org.openjfx:javafx-media:11:${platform}"
+    compile "org.openjfx:javafx-fxml:11:${platform}"
+    compile fileTree(dir: 'lib', include: '*.jar')
+}
+
+mainClassName = 'ee.taltech.iti0200.gameex09.GameStart'
+
+jar {
+    manifest {
+        attributes ("Implementation-Title": "Gradle",
+                'Main-Class': 'ee.taltech.iti0200.gameex09.GameStart')
+    }
+    from {
+        configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+}
+
+javafx {
+    modules = ['javafx.controls', 'javafx.fxml', 'javafx.media']
+    version = '11.0.2'
+}
