@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<link rel="shortcut icon" href="prax2photos/dog.jpg" type="image/jpg">
+			<title>Shibazee</title>
+			<meta charset="UTF-8">
+			<link rel="stylesheet" href="gameStyle.css">
+		</head>
+		<body class="game">
+
+			<div class="dices">
+				<img name="mydice1" id="mydice1" class="dice">
+				<img name="mydice2" id="mydice2" class="dice">
+				<img name="mydice3" id="mydice3" class="dice">
+				<img name="mydice4" id="mydice4" class="dice">
+				<img name="mydice5" id="mydice5" class="dice">
+			</div>
+
+			<div class="scoretable">
+	            <table id="scorecard">
+	                <tr>
+	                    <th></th>
+	                    <td id="name bottom-player-name"></td>
+	                    <td class="name top-player-name">Bill</td>
+	                </tr>
+	                <tr id="ones">
+	                    <th>Ones</th>
+	                    <td onclick="addSumOneNr('one', 1, false)" id="one"></td>
+	                    <td></td>
+	                </tr>
+	                <tr id="twos">
+	                    <th>Twos</th>
+	                    <td onclick="addSumOneNr('two', 2, false)" id="two"></td>
+	                    <td></td>
+	                </tr>
+	                <tr id="threes">
+	                    <th>Threes</th>
+	                    <td onclick="addSumOneNr('three', 3, false)" id="three"></td>
+	                    <td></td>
+	                </tr>
+	                <tr id="fours">
+	                    <th>Fours</th>
+	                    <td onclick="addSumOneNr('four', 4, false)" id="four"></td>
+	                    <td></td>
+	                </tr>
+	                <tr id="fives">
+	                    <th>Fives</th>
+	                    <td onclick="addSumOneNr('five', 5, false)" id="five"></td>
+	                    <td></td>
+	                </tr>
+	                <tr id="sixes" class="lastline">
+	                    <th>Sixes</th>
+	                    <td onclick="addSumOneNr('six', 6, false)" id="six"></td>
+	                    <td></td>
+	                </tr>
+	                <tr id="three-of-a-kind">
+	                    <th>Three of a kind</th>
+	                    <td onclick="sumBigger('threeSum', 3, false)" id="threeSum"></td>
+	                    <td></td>
+	                </tr>
+	                <tr id="four-of-a-kind">
+	                    <th>Four of a kind</th>
+	                    <td onclick="sumBigger('fourSum', 4, false)" id="fourSum"></td>
+	                    <td></td>
+	                </tr>
+	                <tr id="full-house">
+	                    <th>Full House</th>
+	                    <td onclick="fullHouse('fullHouse', false)" id="fullHouse"></td>
+	                    <td></td>
+	                </tr>
+	                <tr id="small-straight">
+	                    <th>Small straight</th>
+	                    <td onclick="straight('straightSmall', 4, false)" id="straightSmall"></td>
+	                    <td></td>
+	                </tr>
+	                <tr id="large-straight">
+	                    <th>Large straight</th>
+	                    <td onclick="straight('straightBig', 5, false)" id="straightBig"></td>
+	                    <td></td>
+	                </tr>
+	                <tr>
+	                    <th>Chance</th>
+	                    <td onclick="chance('chance', false)" id="chance"></td>
+	                    <td></td>
+	                </tr>
+	                <tr id="yahtzee">
+	                    <th>YAHTZEE</th>
+	                    <td onclick="sumBigger('fiveSum', 5, false)" id="fiveSum"></td>
+	                    <td></td>
+	                </tr>
+	                <tr id="total-score">
+	                    <th>TOTAL SCORE</th>
+	                    <td id="sum"></td>
+	                    <td></td>
+	                </tr>
+	            </table>
+        	</div>
+
+			<div class="game_button">
+				<button id="button"></button>
+			</div>
+			<script src="shibazee.js"></script>
+			<h1>Ilja Boitsuk</h1>
+			<p>194041IAIB</p>
+		</body>
+	</html>

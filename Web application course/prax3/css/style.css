@@ -1,0 +1,108 @@
+/**
+    green: #4CAF50;
+ */
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Segoe UI, serif;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #00a7b7;
+}
+
+p {
+    margin: 1em 0;
+}
+
+
+h2 {
+    margin: 1em 0;
+}
+
+
+/** Main layout **/
+.container {
+    margin: 1em;
+    max-width: 1200px;
+}
+
+
+/** Form elements **/
+
+input, textarea, option, select {
+    font-size: 24px;
+    padding: 4px 8px;
+    border-radius: 0;
+    border-width: 1px;
+    width: 300px;
+}
+
+label {
+    font-weight: bold;
+    display: block;
+    font-size: 20px;
+    color: #333;
+}
+
+
+.button_reg {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    font-size: 16px;
+    padding: 10px 8px;
+}
+
+.button_log_in {
+    background-color: #4f66ad;
+    border: none;
+    color: white;
+    font-size: 16px;
+    padding: 10px 8px;
+}
+
+.field {
+    margin: .8em 0;
+}
+
+
+
+/** Navigation **/
+
+nav {
+    background: #4f66ad;
+    font-size: 20px;
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 1em;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+img {
+    width: 90px;
+}
+
+.post {
+    box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+}
