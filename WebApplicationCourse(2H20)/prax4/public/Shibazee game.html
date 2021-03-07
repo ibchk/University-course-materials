@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<link rel="shortcut icon" href="images/dog.jpg" type="image/jpg">
+			<title>Shibazee</title>
+			<meta charset="UTF-8">
+			<link rel="stylesheet" href="stylesheets/gameStyle.css">			
+			<script src="/socket.io/socket.io.js"></script>
+		</head>
+		<body class="game">
+			<div class="dices">
+				<img name="mydice1" id="mydice1" class="dice">
+				<img name="mydice2" id="mydice2" class="dice">
+				<img name="mydice3" id="mydice3" class="dice">
+				<img name="mydice4" id="mydice4" class="dice">
+				<img name="mydice5" id="mydice5" class="dice">
+			</div>
+
+			<div class="scoretable">
+	            <table id="scorecard">
+	                <tr>
+	                    <th></th>
+	                    <td id="name bottom-player-name"></td>
+	                    <td id="enemy_name"></td>
+	                </tr>
+	                <tr id="ones">
+	                    <th>Ones</th>
+	                    <td onclick="addSumOneNr('one', 1, false)" id="one"></td>
+	                    <td id="one_enemy"></td>
+	                </tr>
+	                <tr id="twos">
+	                    <th>Twos</th>
+	                    <td onclick="addSumOneNr('two', 2, false)" id="two"></td>
+	                    <td id="two_enemy"></td>
+	                </tr>
+	                <tr id="threes">
+	                    <th>Threes</th>
+	                    <td onclick="addSumOneNr('three', 3, false)" id="three"></td>
+	                    <td id="three_enemy"></td>
+	                </tr>
+	                <tr id="fours">
+	                    <th>Fours</th>
+	                    <td onclick="addSumOneNr('four', 4, false)" id="four"></td>
+	                    <td id="four_enemy"></td>
+	                </tr>
+	                <tr id="fives">
+	                    <th>Fives</th>
+	                    <td onclick="addSumOneNr('five', 5, false)" id="five"></td>
+	                    <td id="five_enemy"></td>
+	                </tr>
+	                <tr id="sixes" class="lastline">
+	                    <th>Sixes</th>
+	                    <td onclick="addSumOneNr('six', 6, false)" id="six"></td>
+	                    <td id="six_enemy"></td>
+	                </tr>
+	                <tr id="three-of-a-kind">
+	                    <th>Three of a kind</th>
+	                    <td onclick="sumBigger('threeSum', 3, false)" id="threeSum"></td>
+	                    <td id="threeSum_enemy"></td>
+	                </tr>
+	                <tr id="four-of-a-kind">
+	                    <th>Four of a kind</th>
+	                    <td onclick="sumBigger('fourSum', 4, false)" id="fourSum"></td>
+	                    <td id="fourSum_enemy"></td>
+	                </tr>
+	                <tr id="full-house">
+	                    <th>Full House</th>
+	                    <td onclick="fullHouse('fullHouse', false)" id="fullHouse"></td>
+	                    <td id="fullHouse_enemy"></td>
+	                </tr>
+	                <tr id="small-straight">
+	                    <th>Small straight</th>
+	                    <td onclick="straight('straightSmall', 4, false)" id="straightSmall"></td>
+	                    <td id="straightSmall_enemy"></td>
+	                </tr>
+	                <tr id="large-straight">
+	                    <th>Large straight</th>
+	                    <td onclick="straight('straightBig', 5, false)" id="straightBig"></td>
+	                    <td id="straightBig_enemy"></td>
+	                </tr>
+	                <tr>
+	                    <th>Chance</th>
+	                    <td onclick="chance('chance', false)" id="chance"></td>
+	                    <td id="chance_enemy"></td>
+	                </tr>
+	                <tr id="yahtzee">
+	                    <th>YAHTZEE</th>
+	                    <td onclick="sumBigger('fiveSum', 5, false)" id="fiveSum"></td>
+	                    <td id="fiveSum_enemy"></td>
+	                </tr>
+	                <tr id="total-score">
+	                    <th>TOTAL SCORE</th>
+	                    <td id="sum">0</td>
+	                    <td id="sum_enemy">0</td>
+	                </tr>
+	            </table>
+        	</div>
+
+			<div class="game_button">
+				<button id="button"></button>
+			</div>
+			<script src="javascripts/shibazee.js"></script>
+		</body>
+	</html>

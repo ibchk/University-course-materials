@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<link rel="shortcut icon" href="images/dog.jpg" type="image/jpg">
+			<title>Shibazee</title>
+			<meta charset="UTF-8">
+			<link rel="stylesheet" href="stylesheets/askPageStyle.css">
+			<script>
+				if (window.location.href == "http://turing.cs.ttu.ee/~ilboit/prax4/public/") {
+					window.location.replace('http://turing.cs.ttu.ee:3001/')
+				}
+			</script>				
+			<script src="/socket.io/socket.io.js"></script>
+			<script src="javascripts/askPage.js"></script>
+		</head>
+		<body class="ask_page">
+
+			<div class="to_game">
+				<form>			  
+				  <p><label for="name">Hey! Shibazee game is here... To start enter your name: </label></p>
+				  <input type="text" id="name"><br>
+				  Also choose game lenght:
+				  <select id="select">
+				    <option value="three">3</option>
+				    <option value="eight">8</option>
+				    <option value="thirteen" selected>13</option>
+				  </select>
+				  <input type="button" id="buttonToStart" onclick="save()" value="START">
+				</form>
+				<table class="styled-table" id="scores"></table>
+
+				</div>
+		</body>
+</html>

@@ -1,10 +1,0 @@
-
-X
-java:S1854"=Remove this useless assignment to local variable "strategy3".(ñ£ßóøÿÿÿÿ
-X
-java:S1854"=Remove this useless assignment to local variable "strategy2".(»íš×ÿÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Ê¤ø¸ýÿÿÿÿ
-I
-java:S1481".Remove this unused "strategy2" local variable.(»íš×ÿÿÿÿÿ
-I
-java:S1481".Remove this unused "strategy3" local variable.(ñ£ßóøÿÿÿÿ

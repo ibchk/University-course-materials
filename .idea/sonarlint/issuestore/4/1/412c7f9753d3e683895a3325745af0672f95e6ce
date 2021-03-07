@@ -1,18 +1,0 @@
-
-E
-java:S3740W"/Provide the parametrized type for this generic.(÷ÿØ—
-E
-java:S3740W"/Provide the parametrized type for this generic.(÷ÿØ—
-E
-java:S3740Y"/Provide the parametrized type for this generic.(µ¢ÃÓ
-X
-java:S1128	"=Remove this unused import 'java.time.chrono.ChronoLocalDate'.(‘Ë¡°ÿÿÿÿÿ
-H
-java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
-U
-java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª
-<
-java:S2111G"!Use "BigDecimal.valueOf" instead.(“ «Ðûÿÿÿÿ
-S
-java:S1854"7Remove this useless assignment to local variable "str".(ðƒéšüÿÿÿÿ
-O	java:S106‚"9Replace this use of System.out or System.err by a logger.(¯™¶ê

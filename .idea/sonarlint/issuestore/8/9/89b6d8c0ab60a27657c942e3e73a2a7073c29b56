@@ -1,15 +1,0 @@
-
-E
-java:S1066,"/Merge this if statement with the enclosing one.(«ş×ë
-y
-java:S1157,"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(«ş×ë
-y
-java:S1157,"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(«ş×ë
-0
-java:S1220""Move this file to a named package.
-m
-java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(èÇ¥±ùÿÿÿÿ
->
-java:S1068"(Remove this unused "name" private field.(Ë¥¼
-I
-java:S1068".Remove this unused "courseType" private field.(ÉÊ –øÿÿÿÿ

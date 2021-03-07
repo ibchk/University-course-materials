@@ -1,9 +1,0 @@
-
-y
-java:S1157>"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ÿò»þ
-0
-java:S1220""Move this file to a named package.
-Q
-java:S1854N";Remove this useless assignment to local variable "kitten1".(½ÇÄ¶
-B
-java:S1481N",Remove this unused "kitten1" local variable.(½ÇÄ¶
